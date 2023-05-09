@@ -1,13 +1,13 @@
 const constantes = require('../config/constantes');
-const { Browser} = require('playwright-chromium');
+const { BrowserContext} = require('playwright-chromium');
 
 /**
  * @param {string} codigo
- * @param {Browser} nav
+ * @param {BrowserContext} navegador
 */
-const inicarSesionOPAC = async (codigo, nav) => {
+const inicarSesionOPAC = async (codigo, navegador) => {
     try {
-        const page = await nav.newPage();
+        const page = await navegador.newPage();
         await page.goto(constantes.URL);
         await page.waitForLoadState();
         await page.fill(constantes.INPUT_LOGIN, codigo);
@@ -24,7 +24,7 @@ const inicarSesionOPAC = async (codigo, nav) => {
         await page.waitForSelector('body[style="cursor: auto;"]');
         return page;
     } catch (error) {
-        throw Error('No se puedo iniciar sesion: ' + error);
+        throw Error('No se pudo iniciar sesion: ' + error);
     }
 }
 

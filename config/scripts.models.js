@@ -10,5 +10,4 @@ const rutasModels = [
 
 const generarScriptModels = rutasModels.map(ruta => fs.readFileSync(ruta, 'utf-8').split('module.exports')[0]);
 
-
 module.exports = generarScriptModels;

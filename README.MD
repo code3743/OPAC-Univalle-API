@@ -2,7 +2,7 @@
 
 ### API no oficial del sistema Opac de la Universidad del Valle
 
-Este proyecto solo es educativo, la API se construyo para poner realizar consultas
+Este proyecto solo es educativo, la API se construyo para poder realizar consultas
 al sistema desde el dispositivo movil, la velocidad de respuesta esta
 fuertemente ligada a la velocidad de respuesta del sistema web OPAC, ya que se utilizan
 metodos de Web Scrapping para poder obtener la información.

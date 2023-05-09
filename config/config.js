@@ -1,4 +1,4 @@
-const { chromium} = require('playwright-chromium');
+const { chromium } = require('playwright-chromium');
 const generarScriptModels = require('./scripts.models');
 
 const options = {
@@ -9,17 +9,17 @@ const options = {
 
 
 
-const browser = async () =>{
+const browser = async () => {
   const navegador = await chromium.launch(options);
   const context = await navegador.newContext();
-generarScriptModels.forEach(async(script)=>{
-  await context.addInitScript({
-    content: script
-  })
-});
-return context;
+  generarScriptModels.forEach(async (script) => {
+    await context.addInitScript({
+      content: script
+    })
+  });
+  return context;
 }
-  
+
 
 module.exports = {
   browser

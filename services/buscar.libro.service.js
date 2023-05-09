@@ -1,10 +1,10 @@
 const constantes = require('../config/constantes');
 const LibroBusqueda = require('../models/libro.busqueda.model');
 
-const { Browser} = require('playwright-chromium');
+const { BrowserContext} = require('playwright-chromium');
 
 /**
- * @param {Browser} navegador
+ * @param {BrowserContext} navegador
  * @param {string} nombreLibro
 */
 const buscarLibro = async (navegador, nombreLibro) => {
