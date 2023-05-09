@@ -1,6 +1,6 @@
 # OPAC API Univalle
 
-### Api no oficial del sistema Opac de la Universidad del Valle
+### API no oficial del sistema Opac de la Universidad del Valle
 
 Este proyecto solo es educativo, la API se construyo para poner realizar consultas
 al sistema desde el dispositivo movil, la velocidad de respuesta esta
@@ -13,10 +13,11 @@ metodos de Web Scrapping para poder obtener la información.
 - renovar libros, se puede renovar un libro o todos.
 - buscar libros, permite obtener los 10 primeros resultados de coincidencia
 - ver detalles del ejemplar (Ubicación, disponibilidad, numero de ejemplares)
+ 
 
 ### endpoints
+1. ` {dominio}/api?codigo=CODIGO_ESTUDIANTE`
 obtener la informacion principal del OPAC
-` {dominio}/api?codigo=CODIGO_ESTUDIANTE`
 
 **parametros:**
     - codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
@@ -49,9 +50,9 @@ obtener la informacion principal del OPAC
     ]
 }
 ```
-Renovar libro por index, el index debe ser el mismo que retonar cada uno de los libros en prestamos
 
-` {dominio}/api/renovar/INDEX_LIBRO/?codigo=CODIGO_ESTUDIANTE`
+2. ` {dominio}/api/renovar/INDEX_LIBRO/?codigo=CODIGO_ESTUDIANTE`
+Renovar libro por index, el index debe ser el mismo que retonar cada uno de los libros en prestamos
 
 **parametros:**
     - codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
@@ -64,16 +65,15 @@ Renovar libro por index, el index debe ser el mismo que retonar cada uno de los 
     nueva_fecha:  [
         {
         titulo: string,
-        fecha: string,
+        fecha: string
         }
     ],
 }
 ```
 
+
+3. ` {dominio}/api/renovar/?codigo=CODIGO_ESTUDIANTE`
 Renovar todo los libros en prestamo
-
-` {dominio}/api/renovar/?codigo=CODIGO_ESTUDIANTE`
-
 **parametros:**
     - codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
 
@@ -84,9 +84,60 @@ Renovar todo los libros en prestamo
     nueva_fecha:  [
         {
         titulo: string,
-        fecha: string,
+        fecha: string
         }
         ...
     ],
+}
+```
+
+4. ` {dominio}/api/buscar?parametroBusqueda=NOMBRE_EJEMPLAR`
+Retorna un listado de maximo 10 resultados
+
+**parametros:**
+    - parametroBusqueda: El nombre del libro que se desee buscar
+
+**Respuesta:**    
+```sh
+{
+    tituloBuscado: string,
+    totalResultados : number,
+    resultadosBusqueda : [
+        {
+            id: string,
+            nombre: string,
+            autor: string,
+            ISBN: string || null,
+            detalle: string,
+            ejemplares: string,
+            imagenUrl: string || null
+        }
+        ...
+    ]
+}
+```
+
+5. ` {dominio}/api/buscar/ID_LIBRO`
+Retorna informacion detallada de un ejemplar por medio del ID obtenido en resultadosBusqueda
+
+**parametros:**
+    - ID_LIBRO: numero del id que se quiere obtener la informacion
+
+**Respuesta:**    
+```sh
+{
+    imagen: string || null,
+    resumen: string,
+    disponibilidad: [{
+        codigo: string
+        localizacion: string
+        estante: string
+        signatura: string
+        coleccion: string
+        estado: string
+        categoria: string
+    }
+    ...
+    ]
 }
 ```

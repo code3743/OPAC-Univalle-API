@@ -1,0 +1,24 @@
+{
+  "name": "opac-univalle-api",
+  "version": "1.0.0",
+  "description": "API no oficial del sistema OPAC de la Universidad del Valle",
+  "main": "app.js",
+  "scripts": {
+    "start": "node  app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "OPAC",
+    "Univalle",
+    "API",
+    "Scripping"
+  ],
+  "author": "Jota Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "playwright-chromium": "^1.33.0"
+  }
+}
