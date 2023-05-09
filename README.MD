@@ -1,4 +1,4 @@
-# OPAC API Univalle
+# OPAC  Univalle API
 
 ### API no oficial del sistema Opac de la Universidad del Valle
 
@@ -20,7 +20,7 @@ metodos de Web Scrapping para poder obtener la información.
 obtener la informacion principal del OPAC
 
 **parametros:**
-    - codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
+- codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
 
 **Respuesta:**
 
@@ -55,8 +55,8 @@ obtener la informacion principal del OPAC
 Renovar libro por index, el index debe ser el mismo que retonar cada uno de los libros en prestamos
 
 **parametros:**
-    - codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
-    - INDEX_LIBRO: nuemro del libro que se desea renovar
+- codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
+- INDEX_LIBRO: nuemro del libro que se desea renovar
 
 **Respuesta:**    
 ```sh
@@ -75,7 +75,7 @@ Renovar libro por index, el index debe ser el mismo que retonar cada uno de los 
 3. ` {dominio}/api/renovar/?codigo=CODIGO_ESTUDIANTE`
 Renovar todo los libros en prestamo
 **parametros:**
-    - codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
+- codigo: Codigo del estudiante tal cual como inicia sesión en el OPAC Web
 
 **Respuesta:**    
 ```sh
@@ -95,7 +95,7 @@ Renovar todo los libros en prestamo
 Retorna un listado de maximo 10 resultados
 
 **parametros:**
-    - parametroBusqueda: El nombre del libro que se desee buscar
+- parametroBusqueda: El nombre del libro que se desee buscar
 
 **Respuesta:**    
 ```sh
@@ -121,7 +121,7 @@ Retorna un listado de maximo 10 resultados
 Retorna informacion detallada de un ejemplar por medio del ID obtenido en resultadosBusqueda
 
 **parametros:**
-    - ID_LIBRO: numero del id que se quiere obtener la informacion
+- ID_LIBRO: numero del id que se quiere obtener la informacion
 
 **Respuesta:**    
 ```sh

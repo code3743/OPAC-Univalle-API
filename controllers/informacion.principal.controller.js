@@ -22,8 +22,8 @@ const informacionPrincipalController = async (req = request, res = response)=>{
         const multa = await pageUser.evaluate((multa)=>{
             return document.querySelector(multa).innerText;
         }, constantes.MULTA);
-        const librosPrestados = (await getLibrosPrestados(pageUser)).map(libro => libro.toJson());
-        const historialPrestamos = (await getHistorialLibros(pageUser)).map(libro => libro.toJson());;
+        const librosPrestados = await getLibrosPrestados(pageUser);
+        const historialPrestamos = await getHistorialLibros(pageUser);
         res.status(200).json({
             nombre,
             apellido,

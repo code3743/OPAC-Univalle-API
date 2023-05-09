@@ -6,23 +6,21 @@ const { Page} = require('playwright-chromium');
 */
 const getHistorialLibros = async (page) =>{
     try {
-    const historialPrestamo =  await page.evaluate((LibroEnPrestamo)=>{
+    const historialPrestamo =  await page.evaluate(()=>{
         if(document.querySelector('#tabcontent_Title3>#user_tab_hist>.details_tab_copy>table>tbody') != null){
             const  libros = document.querySelector('.details_tab_copy>table>tbody').querySelectorAll('tr');
-            const historial = []
+            const historial = [];
             for(let i=0; i<libros.length - 1; i++){
                const [codigo, titulo, _ , __ , fecha] = libros[i + 1].querySelectorAll('td');
-               const infoLibro = new LibroEnPrestamo(undefined,codigo,titulo,fecha, undefined)
-                historial.push(infoLibro);
+                historial.push((new LibroEnPrestamo(undefined, codigo.innerText, titulo.innerText, fecha.innerText, undefined)).toJson());
             }
             return historial;
         }
        return [];
-    }, LibroEnPrestamo);
-
+    });
     return historialPrestamo;
     } catch (error) {
-        throw Error(`No se pudo obtener los libros: ${error}`);
+        throw Error(`No se pudo obtener el historial: ${error}`);
     }
 
 }

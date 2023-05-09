@@ -7,7 +7,8 @@ const { Browser} = require('playwright-chromium');
 */
 const detallesLibro = async (navegador, id) => {
     try {
-        const page = await navegador.newPage({ baseURL: constantes.URL + `?oid=${id}` });
+        const page = await navegador.newPage();
+        await page.goto(constantes.URL + `?oid=${id}`);
         await page.waitForLoadState();
         await page.waitForTimeout(20000);
         const imagen = await page.evaluate(() => {
@@ -23,7 +24,7 @@ const detallesLibro = async (navegador, id) => {
             return 'Resumen no disponible';
         });
 
-        const localizacion = await page.evaluate((LocalizacionEjemplar) => {
+        const localizacion = await page.evaluate(() => {
             if (document.querySelector('.details_tab_copy.tabcont_vscroll_full>table>tbody') === null) {
                 return [];
             }
@@ -36,10 +37,10 @@ const detallesLibro = async (navegador, id) => {
                     detalle.push(ubicacion.innerText);
                 });
                 const [codigo, localizacion, estante, signatura, coleccion, estado, categoria] = detalle;
-                disponibilidad.push(new LocalizacionEjemplar(codigo, localizacion, estante, signatura, coleccion, estado, categoria));
+                disponibilidad.push((new LocalizacionEjemplar(codigo, localizacion, estante, signatura, coleccion, estado, categoria)).toJson());
             }
-            return disponibilidad.map(libro => libro.toJson());
-        }, LocalizacionEjemplar);
+            return disponibilidad;
+        });
 
         return {
             imagen,

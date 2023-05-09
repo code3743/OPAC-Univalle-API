@@ -9,12 +9,13 @@ const { Browser} = require('playwright-chromium');
 */
 const buscarLibro = async (navegador, nombreLibro) => {
     try {
-        const page = await navegador.newPage({ baseURL: constantes.URL });
+        const page = await navegador.newPage();
+        await page.goto( constantes.URL);
         await page.waitForLoadState();
         await page.fill(constantes.INPUT_SEARCH, nombreLibro);
         await page.click(constantes.BOTTON_SEARCH);
         await page.waitForTimeout(5000);
-        const resultadoBusqueda = await page.evaluate((LibroBusqueda) => {
+        const resultadoBusqueda = await page.evaluate(() => {
             if (document.querySelector('.title_hitlist>table>tbody') === null) {
                 return [];
             }
@@ -32,10 +33,10 @@ const buscarLibro = async (navegador, nombreLibro) => {
                     infoLibro.ISBN = ISBN;
                     infoLibro.imagenUrl = `http://covers.openlibrary.org/b/isbn/${ISBN}-L.jpg`
                 }
-                libros.push(infoLibro);
+                libros.push(infoLibro.toJson());
             }
             return libros
-        }, LibroBusqueda);
+        });
 
         return resultadoBusqueda;
     } catch (error) {

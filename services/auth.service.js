@@ -14,16 +14,17 @@ const inicarSesionOPAC = async (codigo, nav) => {
         await page.evaluate((selector) => {
             document.querySelector(selector).click();
         }, constantes.BOTTON_LOGIN);
-        await page.waitForTimeout(5000)
+        await page.waitForTimeout(3700)
         const evaluarUsuario = await page.evaluate(() => {
             return document.querySelector('#login1') == null;
         });
         if (!evaluarUsuario) {
             throw Error('El usuario no existe');
         }
+        await page.waitForSelector('body[style="cursor: auto;"]');
         return page;
     } catch (error) {
-        throw Error('Error al tratar de inicar sesión ' + error);
+        throw Error('No se puedo iniciar sesion: ' + error);
     }
 }
 
