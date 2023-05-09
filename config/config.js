@@ -6,9 +6,6 @@ const options = {
   args: ['--no-sandbox'] // Parámetros de Chromium
 };
 
-
-
-
 const browser = async () => {
   const navegador = await chromium.launch(options);
   const context = await navegador.newContext();
@@ -19,7 +16,6 @@ const browser = async () => {
   });
   return context;
 }
-
 
 module.exports = {
   browser
