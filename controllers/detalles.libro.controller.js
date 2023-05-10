@@ -1,7 +1,10 @@
 const {request, response} = require('express');
 const { detallesLibro } = require('../services/detalles.libro.service');
-
-const detallesLibroController = async (req = request, res = response) => {
+/**
+ * @param {request} req
+ * @param {response} res
+*/
+const detallesLibroController = async (req, res) => {
     const { id = '' } = req.params;
     const navegador = await browser();
     try {

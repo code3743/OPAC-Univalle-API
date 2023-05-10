@@ -2,8 +2,11 @@ const {request, response} = require('express');
 const {browser} = require('../config/config');
 const { inicarSesionOPAC } = require('../services/auth.service');
 const { actualizarLibro, actualizarTodo } = require('../services/actualizar.libros.service');
-
-const actualizarTodoController = async (req = request, res = response)=>{
+/**
+ * @param {request} req
+ * @param {response} res
+*/
+const actualizarTodoController = async (req, res)=>{
     const {codigo} = req.query;
     const navegador = await browser();
     try {
@@ -16,8 +19,11 @@ const actualizarTodoController = async (req = request, res = response)=>{
         await navegador.close();
     }
 }
-
-const actualizarLibroController= async (req = request, res = response)=>{
+/**
+ * @param {request} req
+ * @param {response} res
+*/
+const actualizarLibroController= async (req, res)=>{
     const {codigo} = req.query;
     const indexLibro = parseInt(req.params.index);
     const navegador = await browser();

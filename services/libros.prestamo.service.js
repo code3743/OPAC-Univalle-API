@@ -12,7 +12,7 @@ const getLibrosPrestados = async (page) =>{
             const prestamos = [];
             for(let i=0; i<libros.length - 1; i++){
                 const [codigo, titulo, _ , fecha, multa] = libros[i + 1].querySelectorAll('td');
-                const fechaFormat = fecha.innerText.split(' ')[0].replace('-',' ');
+                const fechaFormat = fecha.innerText.split(' ')[0].replace(/-/g, ' ');
                 prestamos.push((new LibroEnPrestamo(i+1, codigo.innerText, titulo.innerText, fechaFormat, multa.innerText)).toJson());   
             }
             return prestamos

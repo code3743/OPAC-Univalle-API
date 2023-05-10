@@ -12,7 +12,7 @@ const getHistorialLibros = async (page) =>{
             const historial = [];
             for(let i=0; i<libros.length - 1; i++){
                const [codigo, titulo, _ , __ , fecha] = libros[i + 1].querySelectorAll('td');
-               const fechaFormat = fecha.innerText.split(' ')[0].replace('-',' ');
+               const fechaFormat = fecha.innerText.split(' ')[0].replace(/-/g, ' ');
                 historial.push((new LibroEnPrestamo(undefined, codigo.innerText, titulo.innerText, fechaFormat, undefined)).toJson());
             }
             return historial;

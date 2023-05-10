@@ -2,7 +2,11 @@ const {request, response} = require('express');
 const {browser} = require('../config/config');
 const { buscarLibro } = require('../services/buscar.libro.service');
 
-const buscarLibroController = async (req = request, res = response) => {
+/**
+ * @param {request} req
+ * @param {response} res
+*/
+const buscarLibroController = async (req, res) => {
     const { parametroBusqueda = '' } = req.query;
     const navegador = await browser();
     try {
