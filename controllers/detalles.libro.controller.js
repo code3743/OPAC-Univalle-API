@@ -1,23 +1,21 @@
 const {request, response} = require('express');
 const { detallesLibro } = require('../services/detalles.libro.service');
+const BrowserSingleton = require('../config/config');
 /**
  * @param {request} req
  * @param {response} res
 */
 const detallesLibroController = async (req, res) => {
-    const { id = '' } = req.params;
-    const navegador = await browser();
+    const { isbn = '' } = req.params;
+    const navegador = await BrowserSingleton.getBrowser();
     try {
-        const detalleEjemplar =  await detallesLibro(navegador, id);
+        const detalleEjemplar =  await detallesLibro(navegador, isbn);
         res.status(200).json(
-            ...detalleEjemplar
-        )
-        
+          detalleEjemplar
+        );
     }  catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
-    } finally{
-        await navegador.close();
-    }
+    } 
 }
 
 module.exports = {

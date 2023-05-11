@@ -20,7 +20,7 @@ const actualizarLibro = async (page, indexLibro) => {
 
         return {
             total: 1,
-            nueva_fecha: [getEstado]
+            estado: [getEstado]
         }
 
     } catch (error) {
@@ -48,7 +48,7 @@ const actualizarTodo = async (page) => {
         });
         return {
             total: getFechasLibrosActualizados.length,
-            nueva_fecha: getFechasLibrosActualizados
+            estados: getFechasLibrosActualizados
         }
 
     } catch (error) {

@@ -6,6 +6,16 @@ class LocalizacionEjemplar {
     #coleccion ;
     #estado ;
     #categoria ;
+    /**
+     * 
+     * @param {string} codigo 
+     * @param {string} localizacion 
+     * @param {string} estante 
+     * @param {string} signatura 
+     * @param {string} coleccion 
+     * @param {string} estado 
+     * @param {string} categoria 
+     */
     constructor(codigo, localizacion, estante, signatura, coleccion, estado, categoria) {
         this.#codigo = codigo;
         this.#localizacion = localizacion;
@@ -15,8 +25,8 @@ class LocalizacionEjemplar {
         this.#estado = estado;
         this.#categoria = categoria;
     }
-
-    toJson() {
+  
+   toJson() {
         return {
             codigo: this.#codigo,
             localizacion: this.#localizacion,

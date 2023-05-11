@@ -1,5 +1,5 @@
 const {request, response} = require('express');
-const {browser} = require('../config/config');
+const BrowserSingleton = require('../config/config');
 const { inicarSesionOPAC } = require('../services/auth.service');
 const { getLibrosPrestados } = require('../services/libros.prestamo.service');
 const { getHistorialLibros } = require('../services/historial.libros.service');
@@ -13,10 +13,10 @@ const selectorSimple = require('../services/selector.simple.service');
 */
 const informacionPrincipalController = async (req , res )=>{
     const codigo = req.query.codigo;
-    const navegador =await browser();
+    const navegador = await BrowserSingleton.getBrowser();
+    let pageUser;
     try {
-        const pageUser = await inicarSesionOPAC(codigo, navegador);
-        
+        pageUser = await inicarSesionOPAC(codigo, navegador);
         const fechaExpiracion = (await selectorSimple(pageUser,constantes.FECHA_EXP)).replace(/-/g, ' ');
         const apellido = capitalize(await selectorSimple(pageUser, constantes.APELLIDO));
         const nombre = capitalize(await selectorSimple(pageUser,constantes.NOMBRE));
@@ -37,7 +37,9 @@ const informacionPrincipalController = async (req , res )=>{
     } catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
     } finally{
-        await navegador.close();
+        if(pageUser){
+            await pageUser.close();
+        }
     }
 }
 

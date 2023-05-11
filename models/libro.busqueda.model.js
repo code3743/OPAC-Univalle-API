@@ -6,7 +6,15 @@ class LibroBusqueda {
     #detalle ;
     #ejemplares ;
     #imagenUrl ;
-    constructor(id = '', nombre = '', autor = '', detalle = '', ejemplares = '',) {
+    /**
+     * 
+     * @param {string} id 
+     * @param {string} nombre 
+     * @param {string} autor 
+     * @param {string} detalle 
+     * @param {string} ejemplares 
+     */
+    constructor(id, nombre, autor, detalle, ejemplares,) {
         this.#id = id;
         this.#nombre = nombre;
         this.#autor = autor;
@@ -30,7 +38,17 @@ class LibroBusqueda {
         this.#ISBN = ISBN;
     }
 
-
+ /**
+     * @return {{
+     *  id: string,
+     *  nombre: string,
+     *  autor: string,
+     *  ISBN: string | null,
+     *  detalle: string,
+     *  ejemplares: string,
+     *  imagenUrl:string | null
+     * }} 
+     */
     toJson() {
         return {
             id: this.#id,

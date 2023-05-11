@@ -4,8 +4,16 @@ class LibroEnPrestamo{
     #titulo;
     #fecha;
     #multa;
+    /**
+     * 
+     * @param {number} index 
+     * @param {string} codigo 
+     * @param {string} titulo 
+     * @param {string} fecha 
+     * @param {string} multa 
+     */
     constructor(index, codigo, titulo, fecha, multa){
-        this.#index = index
+        this.#index = index;
         this.#codigo = codigo;
         this.#titulo = titulo;
         this.#fecha = fecha;

@@ -23,7 +23,6 @@ const getHistorialLibros = async (page) =>{
     } catch (error) {
         throw Error(`No se pudo obtener el historial: ${error}`);
     }
-
 }
 
 

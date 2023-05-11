@@ -1,5 +1,5 @@
 const {request, response} = require('express');
-const {browser} = require('../config/config');
+const BrowserSingleton = require('../config/config');
 const { buscarLibro } = require('../services/buscar.libro.service');
 
 /**
@@ -8,10 +8,9 @@ const { buscarLibro } = require('../services/buscar.libro.service');
 */
 const buscarLibroController = async (req, res) => {
     const { parametroBusqueda = '' } = req.query;
-    const navegador = await browser();
+    const navegador = await BrowserSingleton.getBrowser();
     try {
-        
-        const resultadosBusqueda = (await buscarLibro(navegador, parametroBusqueda.replace('%20', ' '))).map(libro => libro.toJson());
+        const resultadosBusqueda = await buscarLibro(navegador, parametroBusqueda.replace('%20', ' '));
         res.status(200).json({
             tituloBuscado: parametroBusqueda.replace('%20', ' '),
             totalResultados : resultadosBusqueda.length,
@@ -19,9 +18,7 @@ const buscarLibroController = async (req, res) => {
         });
     } catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
-    } finally{
-        await navegador.close();
-    }
+    } 
 }
 
 module.exports = {
