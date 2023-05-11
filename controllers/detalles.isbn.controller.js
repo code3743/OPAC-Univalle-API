@@ -1,15 +1,15 @@
 const {request, response} = require('express');
-const { detallesLibro } = require('../services/detalles.libro.service');
+const { detallesISBN} = require('../services/detalles.isbn.service');
 const BrowserSingleton = require('../config/config');
 /**
  * @param {request} req
  * @param {response} res
 */
-const detallesLibroController = async (req, res) => {
+const detallesISBNController = async (req, res) => {
     const { isbn = '' } = req.params;
     const navegador = await BrowserSingleton.getBrowser();
     try {
-        const detalleEjemplar =  await detallesLibro(navegador, isbn);
+        const detalleEjemplar =  await detallesISBN(navegador, isbn);
         res.status(200).json(
           detalleEjemplar
         );
@@ -19,5 +19,5 @@ const detallesLibroController = async (req, res) => {
 }
 
 module.exports = {
-    detallesLibroController
+    detallesISBNController
 }

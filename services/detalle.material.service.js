@@ -1,19 +1,19 @@
 const constantes = require('../config/constantes');
 const LocalizacionEjemplar = require('../models/localizacion.ejemplar.model');
-const { BrowserContext} = require('playwright-chromium');
+const { Page} = require('playwright-chromium');
 /**
- * @param {BrowserContext} navegador
- * @param {string} isbn
+ * @param {Page} page
+ * @param {number} tiempoEspera
+
 */
-const detallesLibro = async (navegador, isbn) => {
+const detallesMaterial = async (page, tiempoEspera = 1000) => {
     try {
-        const page = await navegador.newPage();
-        await page.goto(constantes.URL);
-        await page.waitForLoadState();
-        await page.fill(constantes.INPUT_SEARCH, isbn);
-        await page.click(constantes.BOTTON_SEARCH);
-        await page.waitForTimeout(1000);
-        await page.waitForFunction(() => document.querySelector('#results') &&  document.querySelector('#results').textContent !== 'Ejecutando su búsqueda. Por favor espere ...');
+
+        await page.waitForTimeout(tiempoEspera);
+       if(tiempoEspera <= 1000){
+           await page.waitForFunction(() => document.querySelector('#results') &&  document.querySelector('#results').textContent !== 'Ejecutando su búsqueda. Por favor espere ...');
+       }
+
         const imagen = await page.evaluate(() => {
             if (document.querySelector('#details_bkjacket>a') != null) {
                 return document.querySelector('#details_bkjacket>a').getAttribute('href').replace('-M.', '-L.');
@@ -45,10 +45,10 @@ const detallesLibro = async (navegador, isbn) => {
             disponibilidad : localizacion
         }
     } catch (error) {
-        throw Error(`Error al tratar de buscar ${isbn},\n${error}`);
+        throw Error(`Error al procesar informacion: \n${error}`);
     }
 }
 
 module.exports = {
-    detallesLibro
+    detallesMaterial
 }
