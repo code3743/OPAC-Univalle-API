@@ -8,7 +8,10 @@ const options = {
 
 class BrowserSingleton {
   static singleton = null;
-
+  /**
+   * 
+   * @returns {Promise<BrowserContext>}
+   */
   static async getBrowser() {
     if (!BrowserSingleton.singleton) {
       const navegador = await chromium.launch(options);
