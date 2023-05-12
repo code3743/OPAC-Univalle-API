@@ -7,12 +7,12 @@ const { buscarLibro } = require('../services/buscar.libro.service');
  * @param {response} res
 */
 const buscarLibroController = async (req, res) => {
-    const { parametroBusqueda = '' } = req.query;
+    const { q = '' } = req.query;
     const navegador = await BrowserSingleton.getBrowser();
     try {
-        const resultadosBusqueda = await buscarLibro(navegador, parametroBusqueda.replace('%20', ' '));
+        const resultadosBusqueda = await buscarLibro(navegador, q.replace('%20', ' '));
         res.status(200).json({
-            tituloBuscado: parametroBusqueda.replace('%20', ' '),
+            tituloBuscado: q.replace('%20', ' '),
             totalResultados : resultadosBusqueda.length,
             resultadosBusqueda
         });

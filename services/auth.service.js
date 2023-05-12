@@ -4,6 +4,7 @@ const { BrowserContext} = require('playwright-chromium');
 /**
  * @param {string} codigo
  * @param {BrowserContext} navegador
+ * @returns {Promise<Page>}
 */
 const inicarSesionOPAC = async (codigo, navegador) => {
     try {
@@ -14,7 +15,7 @@ const inicarSesionOPAC = async (codigo, navegador) => {
         await page.evaluate((selector) => {
             document.querySelector(selector).click();
         }, constantes.BOTTON_LOGIN);
-        await page.waitForTimeout(3700)
+        await page.waitForTimeout(3000)
         const evaluarUsuario = await page.evaluate(() => {
             return document.querySelector('#login1') == null;
         });

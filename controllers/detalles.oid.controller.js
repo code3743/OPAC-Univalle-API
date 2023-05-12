@@ -1,6 +1,7 @@
 const {request, response} = require('express');
 const BrowserSingleton = require('../config/config');
 const { detallesOID } = require('../services/detalles.oid.service');
+
 /**
  * @param {request} req
  * @param {response} res

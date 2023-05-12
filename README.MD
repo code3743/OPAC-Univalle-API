@@ -92,11 +92,11 @@ Renovar todo los libros en prestamo
 }
 ```
 
-4. ` {dominio}/api/buscar?parametroBusqueda=NOMBRE_EJEMPLAR`
+4. ` {dominio}/api/buscar?q=NOMBRE_EJEMPLAR`
 Retorna un listado de maximo 10 resultados
 
 **parametros:**
-- parametroBusqueda: El nombre del libro que se desee buscar
+- q: El nombre del libro que se desee buscar
 
 **Respuesta:**    
 ```sh
@@ -118,11 +118,36 @@ Retorna un listado de maximo 10 resultados
 }
 ```
 
-5. ` {dominio}/api/buscar/ISBN_LIBRO`
+5. ` {dominio}/api/detalle/isbn/ISBN_LIBRO`
 Retorna informacion detallada de un ejemplar por medio del ID obtenido en resultadosBusqueda
 
 **parametros:**
 - ISBN_LIBRO: isbn retornado en la busqueda
+
+**Respuesta:**    
+```sh
+{
+    imagen: string || null,
+    resumen: string,
+    disponibilidad: [{
+        codigo: string
+        localizacion: string
+        estante: string
+        signatura: string
+        coleccion: string
+        estado: string
+        categoria: string
+    }
+    ...
+    ]
+}
+```
+
+6. ` {dominio}/api/detalle/oid/OID`
+Retorna informacion detallada de un ejemplar por medio del ID obtenido en resultadosBusqueda
+
+**parametros:**
+- OID: isbn retornado en la busqueda
 
 **Respuesta:**    
 ```sh

@@ -5,7 +5,8 @@ const BrowserSingleton = require('./config/config');
 const app = express();
 const port = process.env.PORT || 3000;
 
-(async() => { await BrowserSingleton.getBrowser();})(); 
+(async() => await BrowserSingleton.getBrowser())();
+
 app.use(express.static('public'));
 app.use(express.json());
 app.use(cors());

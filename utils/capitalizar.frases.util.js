@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {string} texto 
+ * @returns {string}
+ */
 const capitalize = (texto)=>{
     return texto.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
 }
