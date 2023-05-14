@@ -9,7 +9,6 @@ const options = {
 class BrowserSingleton {
   static singleton = null;
   /**
-   * 
    * @returns {Promise<BrowserContext>}
    */
   static async getBrowser() {

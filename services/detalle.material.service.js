@@ -4,13 +4,14 @@ const { Page} = require('playwright-chromium');
 /**
  * @param {Page} page
  * @param {number} tiempoEspera
+ * @param {boolean} busquedaDirecta
 
 */
-const detallesMaterial = async (page, tiempoEspera = 1000) => {
+const detallesMaterial = async (page, tiempoEspera = 1000, busquedaDirecta = true) => {
     try {
 
         await page.waitForTimeout(tiempoEspera);
-       if(tiempoEspera <= 1000){
+       if(busquedaDirecta){
            await page.waitForFunction(() => document.querySelector('#results') &&  document.querySelector('#results').textContent !== 'Ejecutando su búsqueda. Por favor espere ...');
        }
 

@@ -13,4 +13,4 @@ app.use(express.json());
 app.use(cors());
 app.use('/api', require('./routers/opac.router'));
 
-app.listen(port, () => { console.log('Corriendo en el puerto:', port) });
+app.listen(port, () => { console.log('Corriendo en el puerto:', port)});
