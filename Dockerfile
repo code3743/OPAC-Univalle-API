@@ -6,8 +6,8 @@ RUN npm install
 RUN npm install playwright
 COPY . .
 # Instalamos dependencias de Chromium
-RUN apk add --no-cache chromium \
-    && rm -rf /var/cache/apk/*
+RUN apt-get update && apt-get install -y chromium
+
 
 # Configuramos la variable de entorno para que Playwright utilice Chromium
 ENV PLAYWRIGHT_BROWSERS_PATH=/usr/bin/chromium-browser
