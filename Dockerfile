@@ -3,19 +3,28 @@ FROM node:16
 WORKDIR /app
 COPY package*.json ./
 RUN npm install
-RUN npm install playwright
 COPY . .
-# Instalamos dependencias de Chromium
-RUN apt-get update && apt-get install -y chromium
-RUN apt-get update && apt-get install -y libnss3-dev libx11-xcb1 libxcomposite1 libxdamage1 \
-libxi6 libxtst6 libglib2.0-0 libxslt1.1 libgstreamer-plugins-base1.0-0 libgstreamer1.0-0 \
-libfontconfig1 libdbus-1-3 libegl1-mesa-dev libnotify4 libgdk-pixbuf2.0-0 libgtk-3-0 \
-libxss1 libsrtp2-dev libxkbcommon-x11-0 libxkbcommon0
 
+ENV PLAYWRIGHT_BROWSERS_PATH=/ms-playwright
 
+# 1. Add tip-of-tree Playwright package to install its browsers.
+#    The package should be built beforehand from tip-of-tree Playwright.
+COPY ./playwright-core.tar.gz /tmp/playwright-core.tar.gz
 
-# Configuramos la variable de entorno para que Playwright utilice Chromium
-ENV PLAYWRIGHT_BROWSERS_PATH=/usr/bin
+# 2. Bake in Playwright Agent.
+#    Playwright Agent is used to bake in browsers and browser dependencies,
+#    and run docker server later on.
+#    Browsers will be downloaded in `/ms-playwright`.
+#    Note: make sure to set 777 to the registry so that any user can access
+#    registry.
+RUN mkdir /ms-playwright && \
+    mkdir /ms-playwright-agent && \
+    cd /ms-playwright-agent && npm init -y && \
+    npm i /tmp/playwright-core.tar.gz && \
+    npx playwright mark-docker-image "${DOCKER_IMAGE_NAME_TEMPLATE}" && \
+    npx playwright install --with-deps && rm -rf /var/lib/apt/lists/* && \
+    rm /tmp/playwright-core.tar.gz && \
+    chmod -R 777 /ms-playwright
 
 EXPOSE 3000
 
