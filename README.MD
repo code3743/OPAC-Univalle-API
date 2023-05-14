@@ -17,7 +17,7 @@ metodos de Web Scrapping para poder obtener la información.
  
 
 ### endpoints
-1. ` {dominio}/api?codigo=CODIGO_ESTUDIANTE`
+1. ` {dominio}/api/login?codigo=CODIGO_ESTUDIANTE`
 obtener la informacion principal del OPAC
 
 **parametros:**
