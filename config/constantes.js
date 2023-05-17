@@ -9,6 +9,7 @@ module.exports = {
     MULTA: '#user_CURBAL_text',
     INPUT_SEARCH : 'input#searchInputField1',
     BOTTON_SEARCH : '.searchButton',
-    BODY_SELECTOR: 'body[style="cursor: auto;"]'
+    BODY_SELECTOR: 'body[style="cursor: auto;"]',
+    PROGRAMA_ACADEMICO: '#user_depts_text>span',
   };
   

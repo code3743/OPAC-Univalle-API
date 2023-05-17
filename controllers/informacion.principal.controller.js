@@ -14,12 +14,13 @@ const selectorSimple = require('../services/selector.simple.service');
 const informacionPrincipalController = async (req , res )=>{
     const codigo = req.query.codigo;
     const navegador = await BrowserSingleton.getBrowser();
-    let pageUser;
+    let pageUser ;
     try {
         pageUser = await inicarSesionOPAC(codigo, navegador);
         const fechaExpiracion = (await selectorSimple(pageUser,constantes.FECHA_EXP)).replace(/-/g, ' ');
         const apellido = capitalize(await selectorSimple(pageUser, constantes.APELLIDO));
         const nombre = capitalize(await selectorSimple(pageUser,constantes.NOMBRE));
+        const programa = (await selectorSimple(pageUser, constantes.PROGRAMA_ACADEMICO)).split(' - ')[0];
         const multa = await selectorSimple(pageUser, constantes.MULTA);
         const librosPrestados = await getLibrosPrestados(pageUser);
         const historialPrestamos = await getHistorialLibros(pageUser);
@@ -27,6 +28,7 @@ const informacionPrincipalController = async (req , res )=>{
             nombre,
             apellido,
             fechaExpiracion,
+            programa,
             multa,
             totalLibrosEnPrestamo: librosPrestados.length,
             totalLibrosPrestado : historialPrestamos.length,
