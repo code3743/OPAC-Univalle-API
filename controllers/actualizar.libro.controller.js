@@ -1,7 +1,7 @@
 const {request, response} = require('express');
-const BrowserSingleton = require('../config/config');
 const { inicarSesionOPAC } = require('../services/auth.service');
 const { actualizarLibro, actualizarTodo } = require('../services/actualizar.libros.service');
+const lanzarNavegador = require('../config/config');
 
 /**
  * @param {request} req
@@ -9,7 +9,7 @@ const { actualizarLibro, actualizarTodo } = require('../services/actualizar.libr
 */
 const actualizarTodoController = async (req, res)=>{
     const {codigo} = req.query;
-    const navegador = await BrowserSingleton.getBrowser();
+    const navegador = await lanzarNavegador();
     let pageUser;
     try {
         pageUser = await inicarSesionOPAC(codigo, navegador);
@@ -18,9 +18,7 @@ const actualizarTodoController = async (req, res)=>{
     } catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
     } finally {
-        if(pageUser){
-            await pageUser.close();
-        }
+        await navegador.close();
     }
 }
 /**
@@ -30,7 +28,7 @@ const actualizarTodoController = async (req, res)=>{
 const actualizarLibroController= async (req, res)=>{
     const {codigo} = req.query;
     const indexLibro = parseInt(req.params.index);
-    const navegador = await browser();
+    const navegador = await lanzarNavegador();
     let pageUser;
     try {
         pageUser = await inicarSesionOPAC(codigo, navegador);
@@ -39,9 +37,7 @@ const actualizarLibroController= async (req, res)=>{
     } catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
     } finally {
-        if(pageUser){
-            await pageUser.close();
-        }
+        await navegador.close();
     }
 }
 

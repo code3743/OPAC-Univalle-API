@@ -7,7 +7,7 @@ const BrowserSingleton = require('../config/config');
 */
 const detallesISBNController = async (req, res) => {
     const { isbn = '' } = req.params;
-    const navegador = await BrowserSingleton.getBrowser();
+    const navegador = await lanzarNavegador();
     try {
         const detalleEjemplar =  await detallesISBN(navegador, isbn);
         res.status(200).json(
@@ -15,7 +15,9 @@ const detallesISBNController = async (req, res) => {
         );
     }  catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
-    } 
+    } finally{
+        await navegador
+    }
 }
 
 module.exports = {

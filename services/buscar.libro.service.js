@@ -14,7 +14,8 @@ const buscarLibro = async (navegador, nombreLibro) => {
         await page.waitForLoadState();
         await page.fill(constantes.INPUT_SEARCH, nombreLibro);
         await page.click(constantes.BOTTON_SEARCH);
-        await page.waitForTimeout(5000);
+        await page.waitForTimeout(3000);
+        await page.waitForFunction(() => document.querySelector('#results') &&  document.querySelector('#results').textContent !== 'Ejecutando su búsqueda. Por favor espere ...');
         const resultadoBusqueda = await page.evaluate(() => {
             if (document.querySelector('.title_hitlist>table>tbody') === null) {
                 return [];

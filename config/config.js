@@ -6,6 +6,20 @@ const options = {
   args: ['--no-sandbox'] // Parámetros de Chromium
 };
 
+const scripts = generarScriptModels;
+
+ /**
+   * @returns {Promise<BrowserContext>}
+   */
+const lanzarNavegador = async()=>{
+  const navegador = await chromium.launch(options);
+  const context = await navegador.newContext();
+  scripts.forEach(async (script) => {
+    await context.addInitScript({content: script});
+  });
+     return context;
+}
+
 class BrowserSingleton {
   static singleton = null;
   /**
@@ -26,4 +40,4 @@ class BrowserSingleton {
   }
 }
 
-module.exports = BrowserSingleton;
+module.exports = lanzarNavegador;

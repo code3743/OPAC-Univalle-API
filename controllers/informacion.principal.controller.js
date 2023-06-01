@@ -1,11 +1,11 @@
 const {request, response} = require('express');
-const BrowserSingleton = require('../config/config');
 const { inicarSesionOPAC } = require('../services/auth.service');
 const { getLibrosPrestados } = require('../services/libros.prestamo.service');
 const { getHistorialLibros } = require('../services/historial.libros.service');
 const constantes = require('../config/constantes');
 const capitalize = require('../utils/capitalizar.frases.util');
 const selectorSimple = require('../services/selector.simple.service');
+const lanzarNavegador = require('../config/config');
 
 /**
  * @param {request} req
@@ -13,7 +13,7 @@ const selectorSimple = require('../services/selector.simple.service');
 */
 const informacionPrincipalController = async (req , res )=>{
     const codigo = req.query.codigo;
-    const navegador = await BrowserSingleton.getBrowser();
+    const navegador = await lanzarNavegador();
     let pageUser ;
     try {
         pageUser = await inicarSesionOPAC(codigo, navegador);
@@ -39,9 +39,7 @@ const informacionPrincipalController = async (req , res )=>{
     } catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
     } finally{
-        if(pageUser){
-            await pageUser.close();
-        }
+        await navegador.close();
     }
 }
 
