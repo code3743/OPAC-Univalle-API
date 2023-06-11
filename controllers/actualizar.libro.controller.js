@@ -10,10 +10,10 @@ const lanzarNavegador = require('../config/config');
 const actualizarTodoController = async (req, res)=>{
     const {codigo} = req.query;
     const navegador = await lanzarNavegador();
-    let pageUser;
+   
     try {
-        pageUser = await inicarSesionOPAC(codigo, navegador);
-        const nuevasFechas =actualizarTodo(pageUser);
+        const  pageUser = await inicarSesionOPAC(codigo, navegador);
+        const nuevasFechas = await actualizarTodo(pageUser);
         res.status(200).json(nuevasFechas);
     } catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
@@ -27,7 +27,7 @@ const actualizarTodoController = async (req, res)=>{
 */
 const actualizarLibroController= async (req, res)=>{
     const {codigo} = req.query;
-    const indexLibro = parseInt(req.params.index);
+    const indexLibro = parseInt(req.params.indexLibro);
     const navegador = await lanzarNavegador();
     let pageUser;
     try {
