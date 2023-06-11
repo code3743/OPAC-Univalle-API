@@ -1,5 +1,7 @@
 const constantes = require('../config/constantes');
 const { BrowserContext} = require('playwright-chromium');
+const logger = require('../utils/logger');
+const ErrorOPAC = require('./error/error');
 
 /**
  * @param {string} codigo
@@ -20,12 +22,16 @@ const inicarSesionOPAC = async (codigo, navegador) => {
             return document.querySelector(query) == null;
         }, constantes.LOGIN_SELECTOR);
         if (!evaluarUsuario) {
-            throw Error('El usuario no existe');
+            throw new ErrorOPAC('El usuario no existe', 'AuthOpac');
         }
         await page.waitForSelector(constantes.BODY_SELECTOR);
         return page;
     } catch (error) {
-        throw Error('No se pudo iniciar sesion: ' + error);
+        logger.error(error);
+        if(error instanceof ErrorOPAC){
+            throw error;
+        }
+        throw Error('Algo salio mal: ' + error);
     }
 }
 

@@ -1,6 +1,8 @@
 const constantes = require('../config/constantes');
 const LocalizacionEjemplar = require('../models/localizacion.ejemplar.model');
 const { Page} = require('playwright-chromium');
+const logger = require('../utils/logger');
+const ErrorOPAC = require('./error/error');
 /**
  * @param {Page} page
  * @param {number} tiempoEspera
@@ -46,7 +48,8 @@ const detallesMaterial = async (page, tiempoEspera = 1000, busquedaDirecta = tru
             disponibilidad : localizacion
         }
     } catch (error) {
-        throw Error(`Error al procesar informacion: \n${error}`);
+        logger.error(error);
+        throw new ErrorOPAC('No se pudo obtener los detalles');
     }
 }
 

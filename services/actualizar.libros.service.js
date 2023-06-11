@@ -1,4 +1,7 @@
 const { Page } = require('playwright-chromium');
+const logger = require('../utils/logger');
+const ErrorOPAC = require('./error/error');
+
 
 /**
  * @param {Page} page
@@ -24,7 +27,8 @@ const actualizarLibro = async (page, indexLibro) => {
         }
 
     } catch (error) {
-        throw Error(`Error al tratar de actualizar el libro ${indexLibro},\n${error}`);
+        logger.error(error);
+        throw new ErrorOPAC('Error al tratar de actualizar los libros');
     }
 };
 
@@ -52,7 +56,8 @@ const actualizarTodo = async (page) => {
         }
 
     } catch (error) {
-        throw Error(`Error al tratar de actualizar el libro ${indexLibro},\n${error}`);
+        logger.error(error);
+        throw new ErrorOPAC('Error al tratar de actualizar los libros');
     }
 };
 

@@ -1,6 +1,8 @@
 
 const LibroEnPrestamo  = require('../models/libro.prestamo.model');
 const {Page} = require('playwright-chromium');
+const logger = require('../utils/logger');
+const ErrorOPAC = require('./error/error');
 /**
  * @param {Page} page
 */
@@ -22,7 +24,8 @@ const getLibrosPrestados = async (page) =>{
     });
     return librosPrestamo;
     } catch (error) {
-        throw Error(`No se pudo obtener los libros: ${error}`);
+        logger.error(error);
+        throw new ErrorOPAC('No se puedo obtener los ejemplares prestados');
     }
 }
 

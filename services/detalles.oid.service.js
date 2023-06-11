@@ -1,6 +1,8 @@
 const constantes = require('../config/constantes');
 const { BrowserContext} = require('playwright-chromium');
 const { detallesMaterial } = require('./detalle.material.service');
+const logger = require('../utils/logger');
+const ErrorOPAC = require('./error/error');
 /**
  * @param {BrowserContext} navegador
  * @param {string} oid
@@ -13,7 +15,8 @@ const detallesOID = async (navegador, oid) => {
         const detallesLibro = await detallesMaterial(page, 8500, false);
         return detallesLibro;
     } catch (error) {
-        throw Error(`Error al tratar de buscar ${oid},\n${error}`);
+        logger.error(error);
+        throw new ErrorOPAC('No se puede mostrar informacion');
     }
 }
 

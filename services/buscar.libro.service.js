@@ -1,7 +1,8 @@
 const constantes = require('../config/constantes');
 const LibroBusqueda = require('../models/libro.busqueda.model');
-
+const ErrorOPAC = require('./error/error');
 const { BrowserContext} = require('playwright-chromium');
+const logger = require('../utils/logger');
 
 /**
  * @param {BrowserContext} navegador
@@ -41,7 +42,8 @@ const buscarLibro = async (navegador, nombreLibro) => {
 
         return resultadoBusqueda;
     } catch (error) {
-        throw Error(`Error al tratar de buscar el libro ${nombreLibro},\n${error}`);
+        logger.error(error);
+        throw new ErrorOPAC(`No se busco el libro ${nombreLibro}`, 'BusquedaEjemplar');
     }
 }
 

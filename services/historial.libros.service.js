@@ -1,6 +1,7 @@
 const  LibroEnPrestamo  = require('../models/libro.prestamo.model');
-
+const ErrorOPAC = require('./error/error');
 const { Page} = require('playwright-chromium');
+const logger = require('../utils/logger');
 /**
  * @param {Page} page
 */
@@ -21,7 +22,8 @@ const getHistorialLibros = async (page) =>{
     });
     return historialPrestamo;
     } catch (error) {
-        throw Error(`No se pudo obtener el historial: ${error}`);
+        logger.error(error);
+        throw new ErrorOPAC('No se puedo obtener el historial');
     }
 }
 
