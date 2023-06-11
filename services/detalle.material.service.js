@@ -1,4 +1,3 @@
-const constantes = require('../config/constantes');
 const LocalizacionEjemplar = require('../models/localizacion.ejemplar.model');
 const { Page} = require('playwright-chromium');
 const logger = require('../utils/logger');

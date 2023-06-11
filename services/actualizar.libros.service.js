@@ -14,7 +14,7 @@ const actualizarLibro = async (page, indexLibro) => {
             libros[index].querySelectorAll('td')[5].querySelector('span>img').click();
         }, indexLibro);
 
-        await page.waitForTimeout(2000);
+        await page.waitForTimeout(2500);
 
         const getEstado = await page.evaluate((index) => {
             const libros = document.querySelector('.details_tab_copy').querySelectorAll('table>tbody>tr');
