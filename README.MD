@@ -2,11 +2,19 @@
 
 ### API no oficial del sistema OPAC de la Universidad del Valle
 
-Este proyecto solo con fines educativos, la API se construyo para poder realizar consultas
-al sistema desde el dispositivo movil, ya que actualmente no es posible iniciar sesión al catalogo
-desde un movil,cabe resaltar que la velocidad de respuesta esta
-fuertemente ligada a la velocidad de respuesta del sistema web OPAC, ya que se utilizan
-metodos de Web Scrapping para poder obtener la información.
+¡Bienvenido al proyecto educativo "API OPAC Univalle"!
+
+
+Aquí podrás encontrar una increíble API que te permite realizar consultas al sistema desde tu dispositivo móvil. ¿Por qué? Porque sabemos que no siempre es fácil acceder al catálogo desde tu teléfono. ¡Pero no te preocupes, estamos aquí para ayudarte!
+
+
+Queremos destacar que la velocidad de respuesta puede depender de la velocidad del sistema web OPAC. Utilizamos métodos de Web Scraping para obtener la información necesaria y brindarte una experiencia única.
+
+
+Recuerda que este proyecto tiene fines educativos, ¡así que diviértete explorando y aprendiendo! Si tienes alguna pregunta, no dudes en contactarnos.
+
+
+¡Disfruta del viaje!
 
 #### Funciones
 
@@ -127,7 +135,7 @@ Retorna informacion detallada de un ejemplar por medio del ID obtenido en result
 **Respuesta:**    
 ```sh
 {
-    imagen: string || null,
+    imagen: string | null,
     resumen: string,
     disponibilidad: [{
         codigo: string
@@ -152,7 +160,7 @@ Retorna informacion detallada de un ejemplar por medio del ID obtenido en result
 **Respuesta:**    
 ```sh
 {
-    imagen: string || null,
+    imagen: string | null,
     resumen: string,
     disponibilidad: [{
         codigo: string

@@ -8,14 +8,11 @@ const { detallesOIDController } = require('../controllers/detalles.oid.controlle
 const router = Router();
 
 // router.get('/',);
-// router.get('/:facultad', );
 router.get('/login', informacionPrincipalController);
 router.get('/renovar', actualizarTodoController);
 router.get('/renovar/:indexLibro', actualizarLibroController);
 router.get('/buscar', buscarLibroController);
 router.get('/detalle/isbn/:isbn', detallesISBNController);
 router.get('/detalle/oid/:oid', detallesOIDController);
-
-
 
 module.exports = router;

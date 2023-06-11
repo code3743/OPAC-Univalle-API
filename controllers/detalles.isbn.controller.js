@@ -1,6 +1,6 @@
 const {request, response} = require('express');
 const { detallesISBN} = require('../services/detalles.isbn.service');
-const BrowserSingleton = require('../config/config');
+const lanzarNavegador = require('../config/config');
 /**
  * @param {request} req
  * @param {response} res
@@ -16,7 +16,7 @@ const detallesISBNController = async (req, res) => {
     }  catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
     } finally{
-        await navegador
+        await navegador.close();
     }
 }
 
