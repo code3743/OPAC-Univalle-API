@@ -22,42 +22,41 @@ main {
 }
 
 main section {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .button-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-  }
-  
-  .button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 
 .button:hover {
   background-color: #555;
 }
-  
-  .button i {
-    margin-right: 5px;
-  }
-  
-  .logo-icon {
-    width: 90px;
-    height: 90px;
-    fill: #EE322F;
-  }
-  
+
+.button i {
+  margin-right: 5px;
+}
+
+.logo-icon {
+  width: 90px;
+  height: 90px;
+  fill: #ee322f;
+}
 
 .container {
   max-width: 800px;
