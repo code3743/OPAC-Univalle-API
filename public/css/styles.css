@@ -27,6 +27,7 @@ main section {
 
 .button-container {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 10px;
@@ -51,6 +52,17 @@ main section {
 .button i {
   margin-right: 5px;
 }
+
+@media (max-width: 768px) {
+  .button-container {
+    flex-direction: column;
+  }
+
+  main {
+    text-align: justify;
+  }
+}
+
 
 .logo-icon {
   width: 90px;
