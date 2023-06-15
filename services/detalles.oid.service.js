@@ -1,6 +1,6 @@
-const constantes = require('../config/constantes');
 const { BrowserContext} = require('playwright-chromium');
-const { detallesMaterial } = require('./detalle.material.service');
+const constantes = require('../config/constantes');
+const  detallesMaterial  = require('./detalle.material.service');
 const logger = require('../utils/logger');
 const ErrorOPAC = require('./error/error');
 /**

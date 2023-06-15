@@ -1,5 +1,5 @@
-const LocalizacionEjemplar = require('../models/localizacion.ejemplar.model');
 const { Page} = require('playwright-chromium');
+const LocalizacionEjemplar = require('../models/localizacion.ejemplar.model');
 const logger = require('../utils/logger');
 const ErrorOPAC = require('./error/error');
 /**
@@ -52,6 +52,4 @@ const detallesMaterial = async (page, tiempoEspera = 1000, busquedaDirecta = tru
     }
 }
 
-module.exports = {
-    detallesMaterial
-}
+module.exports = detallesMaterial;

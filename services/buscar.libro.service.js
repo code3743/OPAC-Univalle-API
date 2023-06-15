@@ -1,7 +1,7 @@
+const { BrowserContext} = require('playwright-chromium');
 const constantes = require('../config/constantes');
 const LibroBusqueda = require('../models/libro.busqueda.model');
 const ErrorOPAC = require('./error/error');
-const { BrowserContext} = require('playwright-chromium');
 const logger = require('../utils/logger');
 
 /**
@@ -27,8 +27,8 @@ const buscarLibro = async (navegador, nombreLibro) => {
                 const id = resultados[i].querySelector('.resultsbright>a').id.replace('hitlabel', '');
                 const nombre = resultados[i].querySelector('.resultsbright').innerText;
                 const autor = resultados[i].querySelector('.extras').innerText.split('\n')[1];
-                const detalle = resultados[i].querySelector('.tihitlist_l3').innerText.split('\n')[0].replace(' ', '');
-                const ejemplares = resultados[i].querySelector('.tihitlist_l3').innerText.split('\n')[1];
+                const detalle = resultados[i].querySelector('.tihitlist_l3').innerText.split('\n')[0].slice(1);
+                const ejemplares = resultados[i].querySelector('.tihitlist_l3').innerText.split('\n')[1].replace('Ejemplares: ','');
                 const infoLibro = new LibroBusqueda(id,nombre,autor,detalle,ejemplares);
                 if(resultados[i].querySelector('.extras').innerText.includes('ISBN: ')){
                     const ISBN = resultados[i].querySelector('.extras').innerText.split('\n')[2].replaceAll('ISBN: ','');

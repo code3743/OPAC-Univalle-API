@@ -1,6 +1,6 @@
+const { Page} = require('playwright-chromium');
 const  LibroEnPrestamo  = require('../models/libro.prestamo.model');
 const ErrorOPAC = require('./error/error');
-const { Page} = require('playwright-chromium');
 const logger = require('../utils/logger');
 /**
  * @param {Page} page

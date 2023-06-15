@@ -1,5 +1,5 @@
-const constantes = require('../config/constantes');
 const { BrowserContext} = require('playwright-chromium');
+const constantes = require('../config/constantes');
 const logger = require('../utils/logger');
 const ErrorOPAC = require('./error/error');
 
