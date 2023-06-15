@@ -12,9 +12,9 @@ const buscarLibroController = async (req, res) => {
     try {
         const resultadosBusqueda = await buscarLibro(navegador, q.replace('%20', ' '));
         res.status(200).json({
-            tituloBuscado: q.replace('%20', ' '),
-            totalResultados : resultadosBusqueda.length,
-            resultadosBusqueda
+            titulo: q.replace('%20', ' '),
+            total : resultadosBusqueda.length,
+            libros: resultadosBusqueda
         });
     } catch (error) {
         res.status(500).send(`Algo salió mal: ${error}`);
