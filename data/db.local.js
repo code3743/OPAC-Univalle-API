@@ -6,7 +6,7 @@ const leerArchivoJSON = require("../utils/leer.archivos.json");
 const crearArchivoJSON = require("../utils/crear.archivo.json");
 const { recomendacion } = require("../services/recomendaciones.service");
 
-class DbLocal {
+class DBLocal {
   #datos = {};
   #rutaCategorias = path.join(__dirname, "categorias.json");
   #rutaDBCategorias = path.join(__dirname, "db");
@@ -44,10 +44,10 @@ class DbLocal {
           libros: librosRecomendados,
         })
       ) {
-        console.log("Libros creados de la facultad: ", facultades.facultad, " creados con exito");
+        console.log("Libros de la facultad: ", facultades.facultad, " creados con exito");
       }
     }
   }
 }
 
-module.exports = DbLocal;
+module.exports = DBLocal;
