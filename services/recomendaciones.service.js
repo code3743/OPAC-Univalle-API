@@ -1,17 +1,15 @@
-const { BrowserContext} = require('playwright-chromium');
+const { Page} = require('playwright-chromium');
 const constantes = require('../config/constantes');
 const LibroBusqueda = require('../models/libro.busqueda.model');
 const ErrorOPAC = require('./error/error');
 const logger = require('../utils/logger');
 
 /**
- * @param {BrowserContext} navegador
- * @param {string} nombreLibro
+ * @param {Page} page
+ * @param {{string}} nombreLibro
 */
-const buscarLibro = async (navegador, nombreLibro) => {
+const recomendacion = async (page, nombreLibro) => {
     try {
-        const page = await navegador.newPage();
-        await page.goto(constantes.URL);
         await page.waitForLoadState();
         await page.fill(constantes.INPUT_SEARCH, nombreLibro);
         await page.click(constantes.BOTTON_SEARCH);
@@ -23,7 +21,8 @@ const buscarLibro = async (navegador, nombreLibro) => {
             }
             const resultados = document.querySelector('.title_hitlist>table>tbody').querySelectorAll('.hitlist_ticol');
             const libros = [];
-            for (let i = 0; i < resultados.length; i++) {
+            const limite = resultados.length > 4 ? 5 : resultados.length
+            for (let i = 0; i < limite; i++) {
                 const id = resultados[i].querySelector('.resultsbright>a').id.replace('hitlabel', '');
                 const nombre = resultados[i].querySelector('.resultsbright').innerText;
                 const autor = resultados[i].querySelector('.extras').innerText.split('\n')[1];
@@ -50,5 +49,5 @@ const buscarLibro = async (navegador, nombreLibro) => {
 
 
 module.exports = {
-    buscarLibro
+    recomendacion
 }
