@@ -1,0 +1,149 @@
+{
+    "categorias": [
+      {
+        "id":1,
+        "facultad": "Artes Integradas",
+        "libros": [
+          "Historia del arte",
+          "El poder de lo invisible",
+          "Arte y percepción visual",
+          "El lenguaje de la moda",
+          "El sentido del orden",
+          "La práctica del arte contemporáneo",
+          "La poética del espacio",
+          "El mundo de Sofía",
+          "El arte de amar",
+          "El libro del desasosiego"
+        ]
+      },
+      {
+        "id":2,
+        "facultad": "Ciencias Naturales y Exactas",
+        "libros": [
+          "Breves respuestas a las grandes preguntas",
+          "El origen de las especies",
+          "El gen: Una historia personal",
+          "El código secreto del universo",
+          "El universo en una cáscara de nuez",
+          "Sapiens: De animales a dioses",
+          "El cosmos y el loto",
+          "El orden del tiempo",
+          "Una breve historia del tiempo",
+          "La tabla rasa: La negación moderna de la naturaleza humana"
+        ]
+      },
+      {
+        "id":3,
+        "facultad": "Ciencias de la Administración",
+        "libros": [
+          "Administración de empresas: Un enfoque interdisciplinario",
+          "El arte de la guerra",
+          "El mito del emprendedor",
+          "Padre rico, padre pobre",
+          "Competencia global",
+          "El líder resonante crea más",
+          "Pensar rápido, pensar despacio",
+          "Las 21 leyes irrefutables del liderazgo",
+          "La disciplina de emprender",
+          "El inversor inteligente"
+        ]
+      },
+      {
+        "id":4,
+        "facultad": "Salud",
+        "libros": [
+          "Anatomía con orientación clínica",
+          "El arte de amar la vida: Reflexiones para vivir más y mejor",
+          "El hombre en busca de sentido",
+          "Inteligencia emocional",
+          "El poder del ahora",
+          "Mindfulness en la vida cotidiana",
+          "El cerebro y el mito del yo",
+          "La dieta del cerebro",
+          "El cuerpo tiene sus razones: Autocura y antigimnasia",
+          "El arte de no amargarse la vida"
+        ]
+      },
+      {
+        "id":5,
+        "facultad": "Ciencias Sociales y Económicas",
+        "libros": [
+          "La riqueza de las naciones",
+          "Sociología",
+          "Los condenados de la tierra",
+          "El choque de civilizaciones",
+          "Pedagogía del oprimido",
+          "El príncipe",
+          "La sociedad del cansancio",
+          "El malestar en la cultura",
+          "Sociedad y cultura contemporáneas",
+          "El mito del desarrollo: El caso de México"
+        ]
+      },
+      {
+        "id":6,
+        "facultad": "Humanidades",
+        "libros": [
+          "1984",
+          "Cien años de soledad",
+          "Ensayos",
+          "El amor en los tiempos del cólera",
+          "Ulises",
+          "La metamorfosis",
+          "Las mil y una noches",
+          "La Odisea",
+          "Don Quijote de la Mancha",
+          "Crimen y castigo"
+        ]
+      },
+      {
+        "id":7,
+        "facultad": "Ingeniería",
+        "libros": [
+          "El hombre que calculaba",
+          "El diseño de la realidad: Cómo los ingenieros piensan en el mundo",
+          "Máquinas y mecanismos",
+          "El alquimista",
+          "Ingeniería económica",
+          "El sueño de la máquina",
+          "Ingeniería de control moderna",
+          "El arte de la guerra aplicado a la empresa",
+          "Ingeniería económica: Métodos y proyectos",
+          "El principito"
+        ]
+      },
+      {
+        "id":8,
+        "facultad": "Educación y pedagogía",
+        "libros": [
+          "Pedagogía de la autonomía",
+          "Aprender a enseñar",
+          "Pedagogía del oprimido",
+          "El maestro ignorante",
+          "La educación como práctica de la libertad",
+          "Pedagogía de la esperanza",
+          "El niño que no podía ser educado",
+          "Los siete saberes necesarios para la educación del futuro",
+          "Aprender a vivir juntos: Educación para la comprensión, la solidaridad y la paz",
+          "Pedagogía de la esperanza: Un reencuentro con la pedagogía del oprimido"
+        ]
+      },
+      {
+        "id":9,
+        "facultad": "Psicología",
+        "libros": [
+          "Introducción a la psicología",
+          "El hombre en busca de sentido",
+          "Psicología del desarrollo: Infancia y adolescencia",
+          "El arte de amar",
+          "Inteligencia emocional",
+          "El cerebro y la inteligencia emocional: Nuevos descubrimientos",
+          "El malestar en la cultura",
+          "Mente, cerebro y educación",
+          "El error de Descartes: La emoción, la razón y el cerebro humano",
+          "El yo y los mecanismos de defensa"
+        ]
+      }
+    ]
+  }
+  

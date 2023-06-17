@@ -1,0 +1,411 @@
+{
+  "id": 9,
+  "facultad": "Psicología",
+  "lirbos": [
+    {
+      "id": "633976",
+      "nombre": "Introducción a la psicología clínica (2003)",
+      "autor": "Compas, Bruce E.; Gotlib, Ian H.; Nagore Cázares, Gabriel; Yescas Milanés, Jorge; Rocha Jiménez, Luz María",
+      "ISBN": "970104021X",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/970104021X-L.jpg"
+    },
+    {
+      "id": "686305",
+      "nombre": "Psicología social de las Américas (2002)",
+      "autor": "Kimble, Charles E.; Hirt, Edward; Díaz Loving, Rolando; Hosch, Harmon; Lucker, G. William; Zárate, Michael; Pecina Hernández, José Carmen",
+      "ISBN": "9702600340",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9702600340-L.jpg"
+    },
+    {
+      "id": "894810",
+      "nombre": "Introducción a la psicología (2008)",
+      "autor": "Miller, George Armitage; Martín Ramírez, Carlos",
+      "ISBN": "9788420662275",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788420662275-L.jpg"
+    },
+    {
+      "id": "879418",
+      "nombre": "Introducción a la psicología (1994)",
+      "autor": "Miller, George Armitage; Martín Ramírez, Carlos",
+      "ISBN": "8478384049",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8478384049-L.jpg"
+    },
+    {
+      "id": "923462",
+      "nombre": "Introducción a la psicología (Tercera edición) (2016)",
+      "autor": "Miller, George Armitage; Martín Ramírez, Carlos",
+      "ISBN": "9788491044246",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788491044246-L.jpg"
+    },
+    {
+      "id": "925765",
+      "nombre": "El hombre en busca de sentido (Tercera edición) (2015)",
+      "autor": "Frankl, Viktor Emil; Comité de Traducción al Español; Freire, José Benigno",
+      "ISBN": "9788425432026",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425432026-L.jpg"
+    },
+    {
+      "id": "657769",
+      "nombre": "El hombre en busca de sentido (2004)",
+      "autor": "Frankl, Viktor; Kopplhuber, Christine; Insausti Herrero, Gabriel; Freire, José Benigno",
+      "ISBN": "8425423872",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8425423872-L.jpg"
+    },
+    {
+      "id": "707452",
+      "nombre": "El hombre en busca de sentido (16 ed.) (1994)",
+      "autor": "Frankl, Viktor",
+      "ISBN": "8425411017",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8425411017-L.jpg"
+    },
+    {
+      "id": "796276",
+      "nombre": "El hombre en busca de sentido (4 ed.) (2008)",
+      "autor": "Frankl, Viktor E.",
+      "ISBN": "9788425423314",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "0",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425423314-L.jpg"
+    },
+    {
+      "id": "575311",
+      "nombre": "El hombre en busca del sentido último : el análisis existencial y la conciencia espiritual del ser humano (1999)",
+      "autor": "Frankl, Viktor E.",
+      "ISBN": "844930704X",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/844930704X-L.jpg"
+    },
+    {
+      "id": "857139",
+      "nombre": "Psicología del desarrollo : infancia y adolescencia (2013)",
+      "autor": "Navarro Pardo, Esperanza",
+      "ISBN": "9788437091815",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788437091815-L.jpg"
+    },
+    {
+      "id": "633967",
+      "nombre": "Psicología del desarrollo (9ed.) (2005)",
+      "autor": "Papalia, Diane E.; Olds, Sally Wendkos; Feldman, Ruth Duskin; Pineda Ayala, Leticia Esther; Núñez Herrejón, José Luis",
+      "ISBN": "9701046722",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9701046722-L.jpg"
+    },
+    {
+      "id": "731160",
+      "nombre": "Enciclopedia de psicología evolutiva y de la educación (v.1) (2007)",
+      "autor": "Fernandez de Haro, Eduardo; Justicia Justicia, Fernando; Pichardo Martínez, María del Carmen",
+      "ISBN": "9788497003902",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788497003902-L.jpg"
+    },
+    {
+      "id": "772829",
+      "nombre": "Psicología del ciclo vital (2010)",
+      "autor": "González González, Eugenio; Muñoz, Ana C.; Bueno, José Antonio; Vilchez, Luis F.; Andrés, Tomás de; Oñate, Ma. Pilar; Morales, Juana; Fernández Martín, Ma. Poveda; González, Ma. Pilar",
+      "ISBN": "9788483169964",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788483169964-L.jpg"
+    },
+    {
+      "id": "943157",
+      "nombre": "Psicología del desarrollo : infancia y adolescencia (Novena edición) (2016)",
+      "autor": "Berger, Kathleen Stassen",
+      "ISBN": "9788498357806",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788498357806-L.jpg"
+    },
+    {
+      "id": "889134",
+      "nombre": "El arte de amar (2011)",
+      "autor": "Ovidio Nasón, Publio, (43 a. C.-17 d. C.); Torre, Fernando de la",
+      "ISBN": "9789500398817",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789500398817-L.jpg"
+    },
+    {
+      "id": "576075",
+      "nombre": "Arte de amar ; Amores (1995)",
+      "autor": "Ovidius Naso, Publio; López, Vicente Cristóbal",
+      "ISBN": "9788439540090",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788439540090-L.jpg"
+    },
+    {
+      "id": "645762",
+      "nombre": "El zen y el arte de amar (2004)",
+      "autor": "Shoshanna, Brenda",
+      "ISBN": "8497541146",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8497541146-L.jpg"
+    },
+    {
+      "id": "644126",
+      "nombre": "El libro de oro del amor y la sexualidad : una guia completa de la fisiología del sexo, el arte de amar y la psicología del amor (1979)",
+      "autor": "ISBN: 8485327438",
+      "ISBN": " Libros/Impreso - Libros",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/ Libros/Impreso - Libros-L.jpg"
+    },
+    {
+      "id": "910076",
+      "nombre": "Ovidio y su poesía de amor (2012)",
+      "autor": "Cristóbal, Vicente",
+      "ISBN": "9788424936334",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788424936334-L.jpg"
+    },
+    {
+      "id": "921240",
+      "nombre": "Inteligencia emocional y enseñanza de la música (2010)",
+      "autor": "Balsera Gómez, Francisco Javier; Gallego Gil, Domingo J.",
+      "ISBN": "9788496753310",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788496753310-L.jpg"
+    },
+    {
+      "id": "885708",
+      "nombre": "Inteligencia emocional en educación (2015)",
+      "autor": "Bisquerra Alzina, Rafael; Pérez González, Juan Carlos; García Navarro , Esther",
+      "ISBN": "9788490770788",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788490770788-L.jpg"
+    },
+    {
+      "id": "938586",
+      "nombre": "Inteligencia emocional 2.0 : estrategias para conocer y aumentar su coeficiente (2017)",
+      "autor": "Bradberrry, Travis; Greaves, Jean; García Bertrán, Ana",
+      "ISBN": "9789588821481",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588821481-L.jpg"
+    },
+    {
+      "id": "785418",
+      "nombre": "Estudio correlacional de la inteligencia emocional y el consumo de cigarrillo en los estudiantes de bachillerato de dos colegios público y privado de la ciudad de Pasto mayo de 2008-mayo 2009 [recurso electrónico]",
+      "autor": "Cerón Bastidas , Gloria Patricia; Cerón Bastidas, Ximena Andrea; Ceron Souza, Elena",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "819832",
+      "nombre": "Inteligencia emocional : para el trabajo de dirección : aptitudes y herramientas (2010)",
+      "autor": "Codina Jiménez, C. Alexis",
+      "ISBN": "9789588630472",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588630472-L.jpg"
+    },
+    {
+      "id": "828073",
+      "nombre": "El cerebro y la inteligencia emocional (2012)",
+      "autor": "Goleman, Daniel; Mayor, Carlos",
+      "ISBN": "9788466651783",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788466651783-L.jpg"
+    },
+    {
+      "id": "722226",
+      "nombre": "Inteligencia social : la nueva ciencia para mejorar las relaciones humanas (2008)",
+      "autor": "Goleman, Daniel; Trujillo, Diana; Schröder, Carlos Daniel; Gigena, Daniel; Torre, Adriana de la",
+      "ISBN": "9789703705627",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789703705627-L.jpg"
+    },
+    {
+      "id": "785826",
+      "nombre": "Sobre el malestar en la cultura de Sigmund Freud (2005)",
+      "autor": "Le Rider, Jacques; Plon, Michel; Raulet, Gérard; Rey-Flaud, Henri; Marengo, Elena",
+      "ISBN": "9789506024949",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789506024949-L.jpg"
+    },
+    {
+      "id": "789654",
+      "nombre": "El malestar en la cultura y otros ensayos (1970)",
+      "autor": "Freud, Sigmund",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "409004",
+      "nombre": "El malestar en la cultura y otros ensayos (1973, 1975, 1979, 1984)",
+      "autor": "Freud, Sigmund; Rey Ardid, Ramón; López Ballesteros y de Torres, Luis",
+      "ISBN": "8420612804",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "14",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8420612804-L.jpg"
+    },
+    {
+      "id": "895128",
+      "nombre": "El malestar en la cultura y otros ensayos (Tercera edición) (2010)",
+      "autor": "Freud, Sigmund; Rey Ardid, Ramón",
+      "ISBN": "9788420664149",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788420664149-L.jpg"
+    },
+    {
+      "id": "729704",
+      "nombre": "A medio siglo de el malestar en la cultura de Sigmund Freud (8 ed.) (2001)",
+      "autor": "Braunstein, Nestor A.",
+      "ISBN": "9682310482",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9682310482-L.jpg"
+    },
+    {
+      "id": "913091",
+      "nombre": "Neurociencia educativa : mente, cerebro y educación (2014)",
+      "autor": "Sousa, David A.; Jensen, Eric P.; Feinstein, Sherley G.; Nevills, Pamela; Scaddan, Michael A.; Sylwester, Robert; Tate, Marcia L.; Marina, José Antonio",
+      "ISBN": "9788427720367",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788427720367-L.jpg"
+    },
+    {
+      "id": "705752",
+      "nombre": "Mente bilateral : canales de percepción y aprendizaje de una lengua extranjera (2006)",
+      "autor": "Durán Vergara , Luz Marlén",
+      "ISBN": "9789588247540",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588247540-L.jpg"
+    },
+    {
+      "id": "888523",
+      "nombre": "El desarrollo y la educación de la mente : escritos esenciales (2012)",
+      "autor": "Gardner, Howard; Meler-Orti, Ferran; Sánchez Barberán, Genis; Arias Pérez, Isidro",
+      "ISBN": "9788449327421",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788449327421-L.jpg"
+    },
+    {
+      "id": "540170",
+      "nombre": "La educación de la mente y el conocimiento de las disciplinas : lo que todos los estudiantes deberían comprender (2000)",
+      "autor": "Gardner, Howard",
+      "ISBN": "844930878X",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/844930878X-L.jpg"
+    },
+    {
+      "id": "863513",
+      "nombre": "La educación de la mente y el conocimiento de las disciplinas : lo que todos los estudiantes deberían comprender (2012)",
+      "autor": "Gardner, Howard; Sánchez Barberán, Genis",
+      "ISBN": "9788449327445",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788449327445-L.jpg"
+    },
+    {
+      "id": "677761",
+      "nombre": "El error de Descartes : la emoción, la razón y el cerebro humano (2006)",
+      "autor": "Damasio, Antonio R.; Ros i Aragonès, Joandomènec",
+      "ISBN": "9788484327875",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788484327875-L.jpg"
+    },
+    {
+      "id": "850076",
+      "nombre": "El error de Descartes : la emoción, la razón y el cerebro humano (2011)",
+      "autor": "Damasio, Antonio R.; Ros i Aragonès, Joandomènec",
+      "ISBN": "9788423344963",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788423344963-L.jpg"
+    },
+    {
+      "id": "827796",
+      "nombre": "El error de Descartes : la emocion, la razon y el cerebro humano (2003)",
+      "autor": "Damasio, Antonio R.; Ros i Aragonès, Joandomènec",
+      "ISBN": "8484321843",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8484321843-L.jpg"
+    },
+    {
+      "id": "527192",
+      "nombre": "El error de Descartes : la emoción, la razón y el cerebro humano (1996)",
+      "autor": "Damasio, Antonio R.; Ros i Aragonès, Joandomènec",
+      "ISBN": "8474237785",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8474237785-L.jpg"
+    },
+    {
+      "id": "854071",
+      "nombre": "El yo y los mecanismos de defensa (1981)",
+      "autor": "Freud, Anna; Carcamo, Y. P. de; Carcamo, Celes E.; Carcamo, Celes E.; Carcamo, Y. P. de",
+      "ISBN": "8475090249",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8475090249-L.jpg"
+    },
+    {
+      "id": "802670",
+      "nombre": "El yo y los mecanismos de defensa (6 ed.) (1973)",
+      "autor": "Freud, Anna; Carcamo, Celes E.; Carcamo, Y. P. de",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "978370",
+      "nombre": "Freud básico : psicoanálisis para el siglo XXI (2003)",
+      "autor": "Kahn, Michael; Rodríguez Murguiondo, María José",
+      "ISBN": "9789500424448",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789500424448-L.jpg"
+    },
+    {
+      "id": "833486",
+      "nombre": "Rang y Dale farmacología (7 ed.) (2012)",
+      "autor": "Rang, Humphrey P.; Dale, Maureen M.; Ritter, James M.; Flower, Rod J.; Henderson, Graeme; Gea Consultoría Editorial",
+      "ISBN": "9788480869089",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788480869089-L.jpg"
+    }
+  ]
+}

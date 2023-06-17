@@ -1,0 +1,285 @@
+{
+  "id": 4,
+  "facultad": "Salud",
+  "lirbos": [
+    {
+      "id": "761096",
+      "nombre": "Anatomía con orientación clínica (6 ed.) (2010)",
+      "autor": "Moore, Keith L.; Dalley, Arthur; Agur, Anne M. R.; Gutiérrez, Antonio; Vasallo, Luis; Fontán, Fernando; Vizcaino, Javier",
+      "ISBN": "9788496921474",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788496921474-L.jpg"
+    },
+    {
+      "id": "712636",
+      "nombre": "Anatomía con orientación clínica (Quinta edición) (2007)",
+      "autor": "Moore, Keith L.; Dalley, Arthur; Merí Vived, Alex",
+      "ISBN": "9789687988894",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789687988894-L.jpg"
+    },
+    {
+      "id": "915044",
+      "nombre": "Fundamentos de anatomía con orientación clínica (Quinta edición) (2015)",
+      "autor": "Moore, Keith L.; Agur, Anne M. R.; Dalley, Arthur F.; Götzens García, Victor; Herrero Díaz, María Jesús; Elizondo Omaña, C. Rodrigo",
+      "ISBN": "9788416004607",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788416004607-L.jpg"
+    },
+    {
+      "id": "630592",
+      "nombre": "Fundamentos de anatomía con orientación clínica (2 ed.) (2003)",
+      "autor": "Moore, Keith L.; Agur, Anne M. R.; Klajn, Diana S.",
+      "ISBN": "8479037784",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8479037784-L.jpg"
+    },
+    {
+      "id": "779843",
+      "nombre": "Anatomía con orientación clínica para estudiantes (5 ed.) (2010)",
+      "autor": "Lippert, Herbert; Rohde Thielen, Margarita",
+      "ISBN": "9788471016799",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788471016799-L.jpg"
+    },
+    {
+      "id": "925765",
+      "nombre": "El hombre en busca de sentido (Tercera edición) (2015)",
+      "autor": "Frankl, Viktor Emil; Comité de Traducción al Español; Freire, José Benigno",
+      "ISBN": "9788425432026",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425432026-L.jpg"
+    },
+    {
+      "id": "657769",
+      "nombre": "El hombre en busca de sentido (2004)",
+      "autor": "Frankl, Viktor; Kopplhuber, Christine; Insausti Herrero, Gabriel; Freire, José Benigno",
+      "ISBN": "8425423872",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8425423872-L.jpg"
+    },
+    {
+      "id": "707452",
+      "nombre": "El hombre en busca de sentido (16 ed.) (1994)",
+      "autor": "Frankl, Viktor",
+      "ISBN": "8425411017",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8425411017-L.jpg"
+    },
+    {
+      "id": "796276",
+      "nombre": "El hombre en busca de sentido (4 ed.) (2008)",
+      "autor": "Frankl, Viktor E.",
+      "ISBN": "9788425423314",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "0",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425423314-L.jpg"
+    },
+    {
+      "id": "575311",
+      "nombre": "El hombre en busca del sentido último : el análisis existencial y la conciencia espiritual del ser humano (1999)",
+      "autor": "Frankl, Viktor E.",
+      "ISBN": "844930704X",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/844930704X-L.jpg"
+    },
+    {
+      "id": "921240",
+      "nombre": "Inteligencia emocional y enseñanza de la música (2010)",
+      "autor": "Balsera Gómez, Francisco Javier; Gallego Gil, Domingo J.",
+      "ISBN": "9788496753310",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788496753310-L.jpg"
+    },
+    {
+      "id": "885708",
+      "nombre": "Inteligencia emocional en educación (2015)",
+      "autor": "Bisquerra Alzina, Rafael; Pérez González, Juan Carlos; García Navarro , Esther",
+      "ISBN": "9788490770788",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788490770788-L.jpg"
+    },
+    {
+      "id": "938586",
+      "nombre": "Inteligencia emocional 2.0 : estrategias para conocer y aumentar su coeficiente (2017)",
+      "autor": "Bradberrry, Travis; Greaves, Jean; García Bertrán, Ana",
+      "ISBN": "9789588821481",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588821481-L.jpg"
+    },
+    {
+      "id": "785418",
+      "nombre": "Estudio correlacional de la inteligencia emocional y el consumo de cigarrillo en los estudiantes de bachillerato de dos colegios público y privado de la ciudad de Pasto mayo de 2008-mayo 2009 [recurso electrónico]",
+      "autor": "Cerón Bastidas , Gloria Patricia; Cerón Bastidas, Ximena Andrea; Ceron Souza, Elena",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "819832",
+      "nombre": "Inteligencia emocional : para el trabajo de dirección : aptitudes y herramientas (2010)",
+      "autor": "Codina Jiménez, C. Alexis",
+      "ISBN": "9789588630472",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588630472-L.jpg"
+    },
+    {
+      "id": "967758",
+      "nombre": "El poder del ahora : un camino hacia la realización espiritual (2012)",
+      "autor": "Tolle, Eckhart; Matarranz Fernández, Margarita",
+      "ISBN": "9789588618791",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588618791-L.jpg"
+    },
+    {
+      "id": "1008986",
+      "nombre": "Magazín Dominical (1987-1995)",
+      "autor": "El Espectador, EE; Cano Busquets, Marisol",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "562480",
+      "nombre": "El poder del ahora : un camino hacia la realización espiritual (2000)",
+      "autor": "Tolle, Eckhart; Matarranz Fernández, Margarita",
+      "ISBN": "9580460361",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9580460361-L.jpg"
+    },
+    {
+      "id": "707745",
+      "nombre": "Vivir la verdad : transforma el dolor del pasado en el poder del futuro (2007)",
+      "autor": "Ablow, Keith; Ochoa, Santiago",
+      "ISBN": "9789584504449",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584504449-L.jpg"
+    },
+    {
+      "id": "812660",
+      "nombre": "El pecado de los dioses : la alta sociedad y el nazismo (2008)",
+      "autor": "D'Almeida, Fabrice ; Petit Fontseré, Nuria; Ruiz de la Prada, Naomi",
+      "ISBN": "9788430606689",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788430606689-L.jpg"
+    },
+    {
+      "id": "963742",
+      "nombre": "El cerebro y el mito del yo : el papel de las neuronas en el pensamiento y el comportamiento humanos (2017)",
+      "autor": "Llinás, Rodolfo R.; Robledo, Alvaro; Guzmán C, Eugenia",
+      "ISBN": "9789588911267",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588911267-L.jpg"
+    },
+    {
+      "id": "629718",
+      "nombre": "El cerebro y el mito del yo : el papel de las neuronas en el pensamiento y el comportamiento humanos (2003)",
+      "autor": "Llinás, Rodolfo R.; García Márquez, Gabriel; Guzmán C, Eugenia",
+      "ISBN": "9789580467984",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "14",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789580467984-L.jpg"
+    },
+    {
+      "id": "812121",
+      "nombre": "El mito del cerebro creador : cuerpo, conducta y cultura (2011)",
+      "autor": "Pérez Álvarez, Marino",
+      "ISBN": "9788420652665",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788420652665-L.jpg"
+    },
+    {
+      "id": "889404",
+      "nombre": "La gran revolución de las grasas : consiga el bienestar mental, emocional, sexual y venza el sobrepeso (2013)",
+      "autor": "Barrio Healey, Sacha",
+      "ISBN": "9789584236838",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584236838-L.jpg"
+    },
+    {
+      "id": "742216",
+      "nombre": "100 recetas para una mente sana : mejore sus capacidades cerebrales y sus estados de ánimo disfrutando cada bocado (2009)",
+      "autor": "Courteney, Hazel; Marsden, Kathryn; Perdomo Páez, Mariana",
+      "ISBN": "9789584517562",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584517562-L.jpg"
+    },
+    {
+      "id": "845365",
+      "nombre": "¿Donde dejé mis lentes? : el cómo, cuándo y porqué de la pérdida normal de la memoria (2008)",
+      "autor": "Weinman Lear, Martha; Bojanini, Lina Patricia",
+      "ISBN": "9789584512987",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584512987-L.jpg"
+    },
+    {
+      "id": "697084",
+      "nombre": "La gran revolución de las grasas : consiga el bienestar mental, emocional, sexual y venza el sobrepeso (2006)",
+      "autor": "Barrio Healey, Sacha",
+      "ISBN": "9580496544",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "19",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9580496544-L.jpg"
+    },
+    {
+      "id": "620118",
+      "nombre": "Los humanos ¿quiénes somos? [videograbación]",
+      "autor": "Discovery Channel Educación, DC",
+      "ISBN": null,
+      "detalle": "Videos/Videocasete - Videos",
+      "ejemplares": "8",
+      "imagenUrl": null
+    },
+    {
+      "id": "858477",
+      "nombre": "El arte de no amargarse la vida : las claves del cambio psicólogico y la transformación personal (2012)",
+      "autor": "Santandreu Lorite , Rafael",
+      "ISBN": "9789584229649",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584229649-L.jpg"
+    },
+    {
+      "id": "863158",
+      "nombre": "El arte de amargarse la vida (Segunda edición) (2013)",
+      "autor": "Watzlawick, Paul; Moll, Xavier; Solano, Francisco de",
+      "ISBN": "9788425431890",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425431890-L.jpg"
+    },
+    {
+      "id": "977303",
+      "nombre": "El arte de amargarse la vida (1990)",
+      "autor": "Watzlawick, Paul; Moll, Xavier",
+      "ISBN": "8425414296",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8425414296-L.jpg"
+    }
+  ]
+}

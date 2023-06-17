@@ -1,0 +1,420 @@
+{
+  "id": 1,
+  "facultad": "Artes Integradas",
+  "lirbos": [
+    {
+      "id": "629119",
+      "nombre": "Teoría, práctica y persuasión : estudios sobre historia del arte (2004)",
+      "autor": "Moxey, Keith",
+      "ISBN": "8476284217",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8476284217-L.jpg"
+    },
+    {
+      "id": "980599",
+      "nombre": "Horizontes culturales de la historia del arte : aportes para una acción compartida en Colombia (2018)",
+      "autor": "Salcedo Fidalgo, Diego",
+      "ISBN": "9789587252330",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587252330-L.jpg"
+    },
+    {
+      "id": "887592",
+      "nombre": "Ante la imagen : pregunta formulada a los fines de una historia del arte (2010)",
+      "autor": "Didi-Huberman, Georges; Mallier, Francoise",
+      "ISBN": "9788496898691",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788496898691-L.jpg"
+    },
+    {
+      "id": "737190",
+      "nombre": "Concepto de arte e idea de progreso en la historia del arte (2007)",
+      "autor": "Fernández Uribe, Carlos Arturo",
+      "ISBN": "9789587140699",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587140699-L.jpg"
+    },
+    {
+      "id": "813384",
+      "nombre": "Historia del arte y patrimonio cultural : una revisión crítica (2012)",
+      "autor": "Borrás Gualis, Gonzalo M.",
+      "ISBN": "9788415538028",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788415538028-L.jpg"
+    },
+    {
+      "id": "806914",
+      "nombre": "Mujeres, salud y poder (2009)",
+      "autor": "Valls-Llobet, Carme",
+      "ISBN": "9788437626161",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788437626161-L.jpg"
+    },
+    {
+      "id": "769173",
+      "nombre": "Exito cuántico : la fórmula para conseguir riqueza y felicidad a través de las leyes de la atracción (2007)",
+      "autor": "Taylor, Sandra Anne; García, Angela",
+      "ISBN": "9789584505149",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584505149-L.jpg"
+    },
+    {
+      "id": "722422",
+      "nombre": "Con sangre en las venas : apuntes polémicos sobre la revolución, los sueños, las pasiones y el marxismo desde América Latina (2007)",
+      "autor": "Kohan, Néstor",
+      "ISBN": "9781921235764",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9781921235764-L.jpg"
+    },
+    {
+      "id": "783730",
+      "nombre": "Los invisibles (2010)",
+      "autor": "Aridjis, Homero",
+      "ISBN": "9786071601872",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786071601872-L.jpg"
+    },
+    {
+      "id": "17434",
+      "nombre": "Arte y percepcion visual : Psicologia de la vision creadora (1962)",
+      "autor": "Arnheim, Rudolf",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "552190",
+      "nombre": "Arte y percepción visual : psicología del ojo creador (2000)",
+      "autor": "Arnheim, Rudolf",
+      "ISBN": "8420686913",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8420686913-L.jpg"
+    },
+    {
+      "id": "833086",
+      "nombre": "Traducir la imagen : el arte colombiano en la esfera transcultural (2012)",
+      "autor": "Bernal Bermúdez, María Clara; Pini, Ivonne",
+      "ISBN": "9789586957090",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789586957090-L.jpg"
+    },
+    {
+      "id": "883070",
+      "nombre": "¿Cómo vemos? : una introducción a la visión de la forma y el color (2014)",
+      "autor": "Fraenza, Fernando; Yonahara, Sergio; Perié, Alejandra",
+      "ISBN": "9789875913639",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789875913639-L.jpg"
+    },
+    {
+      "id": "929712",
+      "nombre": "Inteligencia visual : agudiza tu percepción,cambia tu vida (2017)",
+      "autor": "Herman, Amy E.; Hermida Lazcano, Pablo",
+      "ISBN": "9788417002008",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788417002008-L.jpg"
+    },
+    {
+      "id": "800548",
+      "nombre": "Escritura y desafio narradoras venezolanas del siglo XX (1996)",
+      "autor": "Dimo, Edith; Hidalgo de Jesús, Amarilis",
+      "ISBN": "9800109390",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9800109390-L.jpg"
+    },
+    {
+      "id": "800226",
+      "nombre": "El lenguaje de la moda : una interpretación de las formas de vestir (2 ed.) (1994)",
+      "autor": "Lurie, Alison ; Ingles Bonilla, Fernando",
+      "ISBN": "9788449300042",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788449300042-L.jpg"
+    },
+    {
+      "id": "772177",
+      "nombre": "Módulo para la enseñanza de la lengua castellana : programa de mejoramiento docente en lengua castellana y literatura (2011)",
+      "autor": "Rincón Bonilla, Gloria; Martínez Solís, María Cristina; Arrieta Arvilla, Lil Martha; Escobar, Amparo; Muñoz, María Lucía; Renza, Ana Cristina; Solís, Shirley",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "9",
+      "imagenUrl": null
+    },
+    {
+      "id": "906336",
+      "nombre": "Los 360º de la comunicación (2015)",
+      "autor": "Lillo, Javier; Escoz, Isabel",
+      "ISBN": "9789587624519",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587624519-L.jpg"
+    },
+    {
+      "id": "1001788",
+      "nombre": "Textos de antropología contemporánea (2010)",
+      "autor": "Cruces Villalobos, Francisco; Pérez Galán, Beatriz",
+      "ISBN": "9788436260854",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788436260854-L.jpg"
+    },
+    {
+      "id": "353855",
+      "nombre": "Sentido y orden : estudios de clasificaciones simbolicas (JUL 1990)",
+      "autor": "Giobelina Brumana, Fernando",
+      "ISBN": "8400070461",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8400070461-L.jpg"
+    },
+    {
+      "id": "20950",
+      "nombre": "El sentido de orden : estudio sobre la psicología de las artes decorativas (1980)",
+      "autor": "Gombrich, Ernst Hans Josef",
+      "ISBN": "8425210119",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8425210119-L.jpg"
+    },
+    {
+      "id": "789117",
+      "nombre": "El sentido del orden : estudio sobre la psicología de las artes decorativas (2 ed.) (2004, 2010)",
+      "autor": "Gombrich, Ernst Hans Josef",
+      "ISBN": "9780714859149",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9780714859149-L.jpg"
+    },
+    {
+      "id": "608954",
+      "nombre": "El sentido del orden : estudio sobre la psicología de las artes decorativas (1999)",
+      "autor": "Gombrich, Ernst Hans Josef",
+      "ISBN": "8483061481",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8483061481-L.jpg"
+    },
+    {
+      "id": "739528",
+      "nombre": "Displaced : arte contemporáneo en Colombia = contemporary art from Colombia (2007)",
+      "autor": "Baraya, Alberto; Glynn Vivian Art Gallery; Bonilla, Milena, 1975-; Bucher, , Francois, 1972-; Burbano , Andrés, 1973-; Calle, Johanna, 1965-; Caycedo, Carolina, 1978-; Diaz, Wilson; Escallón, María Elvira, 1954-; Herrán Carreño, Juan Fernando, 1963-; Junca, Humberto, 1968-; Morelos, Delcy, 1967-; Muñoz, Oscar; Ospina, Nadin, 1960-; Restrepo, José Alejandro, 1959-; Rojas, Miguel Ángel, 1946",
+      "ISBN": "9789586952835",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789586952835-L.jpg"
+    },
+    {
+      "id": "759755",
+      "nombre": "El arte conceptual, del ideal estético del arte al arte performativo [recurso electrónico]",
+      "autor": "Palau Aldana, Julián; Cuartas Restrepo, Juan Manuel",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "691767",
+      "nombre": "Imágenes públicas : la función política de la imagen (2007)",
+      "autor": "Rosler, Martha; Carrillo , Jesús; García Agustín, Eduardo",
+      "ISBN": "9788425220630",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425220630-L.jpg"
+    },
+    {
+      "id": "716459",
+      "nombre": "Orden fálico : androcentrismo y violencia de género en las prácticas artísticas del siglo XX (2007)",
+      "autor": "Aliaga, Juan Vicente",
+      "ISBN": "9788446022794",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788446022794-L.jpg"
+    },
+    {
+      "id": "899994",
+      "nombre": "Las artes desde el Caribe : sonidos, miradas, movimientos (2015)",
+      "autor": "González Cueto, Danny; Carbó Ronderos, Guillermo",
+      "ISBN": "9789588742687",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588742687-L.jpg"
+    },
+    {
+      "id": "401236",
+      "nombre": "La poética del espacio (2 ed.) (1965,1975,1997)",
+      "autor": "Bachelard, Gaston Louis Pierre; Champourcin, Ernestina de",
+      "ISBN": "9789681609238",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789681609238-L.jpg"
+    },
+    {
+      "id": "694573",
+      "nombre": "La cultura como texto : lectura, semiótica y educación (2004)",
+      "autor": "Vásquez Rodríguez, Fernando",
+      "ISBN": "9789586834698",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789586834698-L.jpg"
+    },
+    {
+      "id": "277741",
+      "nombre": "La poética del espacio (1993)",
+      "autor": "Bachelard, Gaston Louis Pierre; Champourcin, Ernestina de",
+      "ISBN": "9589093744",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9589093744-L.jpg"
+    },
+    {
+      "id": "740946",
+      "nombre": "El mundo de Sofía : novela sobre la historia de la filosofia (2008)",
+      "autor": "Gaarder, Jostein; Baggethun, Kirsti; Lorenzo, Asunción",
+      "ISBN": "9788478448159",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788478448159-L.jpg"
+    },
+    {
+      "id": "549729",
+      "nombre": "El mundo de Sofía : novela sobre la historia de la filosofía (1994, 2000)",
+      "autor": "Gaarder, Jostein; Baggethun, Kirsti; Lorenzo, Asunción",
+      "ISBN": "9788478443222",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "10",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788478443222-L.jpg"
+    },
+    {
+      "id": "799295",
+      "nombre": "El mundo de sofia : novela sobre la historia de la filosofia (2010, 2013)",
+      "autor": "Gaarder, Jostein; Baggethun, Kirsti; Lorenzo, Asunción",
+      "ISBN": "9788498414516",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788498414516-L.jpg"
+    },
+    {
+      "id": "427483",
+      "nombre": "El mundo de sofia : novela sobre la historia de la filosofia (1995)",
+      "autor": "Gaarder, Jostein",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "858527",
+      "nombre": "El siglo de las luces (1980)",
+      "autor": "Carpentier y Valmont, Alejo",
+      "ISBN": "8402067077",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8402067077-L.jpg"
+    },
+    {
+      "id": "889134",
+      "nombre": "El arte de amar (2011)",
+      "autor": "Ovidio Nasón, Publio, (43 a. C.-17 d. C.); Torre, Fernando de la",
+      "ISBN": "9789500398817",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789500398817-L.jpg"
+    },
+    {
+      "id": "576075",
+      "nombre": "Arte de amar ; Amores (1995)",
+      "autor": "Ovidius Naso, Publio; López, Vicente Cristóbal",
+      "ISBN": "9788439540090",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788439540090-L.jpg"
+    },
+    {
+      "id": "645762",
+      "nombre": "El zen y el arte de amar (2004)",
+      "autor": "Shoshanna, Brenda",
+      "ISBN": "8497541146",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8497541146-L.jpg"
+    },
+    {
+      "id": "644126",
+      "nombre": "El libro de oro del amor y la sexualidad : una guia completa de la fisiología del sexo, el arte de amar y la psicología del amor (1979)",
+      "autor": "ISBN: 8485327438",
+      "ISBN": " Libros/Impreso - Libros",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/ Libros/Impreso - Libros-L.jpg"
+    },
+    {
+      "id": "910076",
+      "nombre": "Ovidio y su poesía de amor (2012)",
+      "autor": "Cristóbal, Vicente",
+      "ISBN": "9788424936334",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788424936334-L.jpg"
+    },
+    {
+      "id": "587316",
+      "nombre": "Libro del desasosiego (2000)",
+      "autor": "Pessoa, Fernando; Kovadloff, Santiago",
+      "ISBN": "9789500421287",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789500421287-L.jpg"
+    },
+    {
+      "id": "768088",
+      "nombre": "Libro del desasosiego (2010)",
+      "autor": "Pessoa, Fernando; Cuadrado, Perfecto E.",
+      "ISBN": "9788492649471",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788492649471-L.jpg"
+    },
+    {
+      "id": "960551",
+      "nombre": "Atlas de literatura universal : 35 obras para descubrir el mundo (2017)",
+      "autor": "García Martín, Pedro; Comotto, Agustín; Cristofol, Tono",
+      "ISBN": "9788416830831",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788416830831-L.jpg"
+    },
+    {
+      "id": "756280",
+      "nombre": "La escritura del desasosiego : una poética del pensar en Fernando Pessoa (2009)",
+      "autor": "Salas Guerra, María Cecilia",
+      "ISBN": "9789587142556",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587142556-L.jpg"
+    },
+    {
+      "id": "701533",
+      "nombre": "Breviario del caos (2004)",
+      "autor": "Caraco , Albert ; Santos Rivera, Rodrigo",
+      "ISBN": "9788493473952",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788493473952-L.jpg"
+    }
+  ]
+}

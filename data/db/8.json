@@ -1,0 +1,276 @@
+{
+  "id": 8,
+  "facultad": "Educación y pedagogía",
+  "lirbos": [
+    {
+      "id": "557325",
+      "nombre": "Pedagogía de la autonomía : saberes necesarios para la práctica educativa (3 ed., 11 ed.) (1999, 2006)",
+      "autor": "Freire, Paulo; Castro de Oliveira, Edina; Palacios, Guillermo",
+      "ISBN": "9789682320699",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682320699-L.jpg"
+    },
+    {
+      "id": "736851",
+      "nombre": "Pedagogía de la autonomía : saberes necesarios para la práctica educativa (1 ed., 2 ed.) (2002)",
+      "autor": "Freire, Paulo; Castro de Oliveira, Edina; Palacios, Guillermo",
+      "ISBN": "9789871105113",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789871105113-L.jpg"
+    },
+    {
+      "id": "928461",
+      "nombre": "Pedagogía de la autonomía : saberes necesarios para la práctica educativa (2015)",
+      "autor": "Freire, Paulo; Palacios, Guillermo",
+      "ISBN": "9789876290395",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789876290395-L.jpg"
+    },
+    {
+      "id": "961921",
+      "nombre": "Pedagogía de la autonomía : saberes necesarios para la práctica educativa (Segunda edición) (2012)",
+      "autor": "Freire, Paulo; Palacios, Guillermo",
+      "ISBN": "9786070304187",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786070304187-L.jpg"
+    },
+    {
+      "id": "613595",
+      "nombre": "Aprender a enseñar : una visión práctica de la formación de formadores (2002)",
+      "autor": "Amat i Salas, Oriol",
+      "ISBN": "8480887834",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8480887834-L.jpg"
+    },
+    {
+      "id": "751296",
+      "nombre": "Pedagogia de la esperanza : un reencuentro con la pedagogia del oprimido (6 ed.) (2005)",
+      "autor": "Freire, Paulo; Nuñez Hurtado, Carlos; Araújo Freire, Ana Maria ; Mastrángelo, Stella, MS",
+      "ISBN": "9789682318993",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682318993-L.jpg"
+    },
+    {
+      "id": "744153",
+      "nombre": "Pedagogía del oprimido (Segunda edición) (2005)",
+      "autor": "Freire, Paulo; Mellado, Jorge",
+      "ISBN": "9789682325892",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "8",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682325892-L.jpg"
+    },
+    {
+      "id": "946814",
+      "nombre": "Pedagogía del oprimido (2012)",
+      "autor": "Freire, Paulo; Mellado, Jorge",
+      "ISBN": "9788415555025",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788415555025-L.jpg"
+    },
+    {
+      "id": "764859",
+      "nombre": "Las ideas pedagógicas de Paulo Freire : pedagogía, política y sociedad (2010)",
+      "autor": "Malagón Plata, Luis Alberto",
+      "ISBN": "9789582010126",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789582010126-L.jpg"
+    },
+    {
+      "id": "809682",
+      "nombre": "Pedagogía de la esperanza : un reencuentro con la pedagogía del oprimido (2 ed.) (2011)",
+      "autor": "Freire, Paulo; Araújo Freire, Ana Maria ; Nuñez Hurtado, Carlos; Mastrangelo Puech, Stella",
+      "ISBN": "9786070302985",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786070302985-L.jpg"
+    },
+    {
+      "id": "745162",
+      "nombre": "Repetición, novedad y sujeto en la educación : un enfoque filosófico y político (2008)",
+      "autor": "Cerletti, Alejandro A.",
+      "ISBN": "9789871335138",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789871335138-L.jpg"
+    },
+    {
+      "id": "946814",
+      "nombre": "Pedagogía del oprimido (2012)",
+      "autor": "Freire, Paulo; Mellado, Jorge",
+      "ISBN": "9788415555025",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788415555025-L.jpg"
+    },
+    {
+      "id": "764859",
+      "nombre": "Las ideas pedagógicas de Paulo Freire : pedagogía, política y sociedad (2010)",
+      "autor": "Malagón Plata, Luis Alberto",
+      "ISBN": "9789582010126",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789582010126-L.jpg"
+    },
+    {
+      "id": "744153",
+      "nombre": "Pedagogía del oprimido (Segunda edición) (2005)",
+      "autor": "Freire, Paulo; Mellado, Jorge",
+      "ISBN": "9789682325892",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "8",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682325892-L.jpg"
+    },
+    {
+      "id": "21812",
+      "nombre": "La educación como práctica de la libertad (1969)",
+      "autor": "Freire, Paulo; Ronzoni, Lilién",
+      "ISBN": "9789682300271",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "11",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682300271-L.jpg"
+    },
+    {
+      "id": "885843",
+      "nombre": "La educación como práctica de la libertad (Segunda edición revisada) (2011)",
+      "autor": "Freire, Paulo; Ronzoni, Lilién",
+      "ISBN": "9786070302992",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786070302992-L.jpg"
+    },
+    {
+      "id": "751296",
+      "nombre": "Pedagogia de la esperanza : un reencuentro con la pedagogia del oprimido (6 ed.) (2005)",
+      "autor": "Freire, Paulo; Nuñez Hurtado, Carlos; Araújo Freire, Ana Maria ; Mastrángelo, Stella, MS",
+      "ISBN": "9789682318993",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682318993-L.jpg"
+    },
+    {
+      "id": "557326",
+      "nombre": "Pedagogía de la esperanza : un reencuentro con la pedagogía del oprimido (4 ed.) (1999)",
+      "autor": "Freire, Paulo",
+      "ISBN": "9682318998",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9682318998-L.jpg"
+    },
+    {
+      "id": "736813",
+      "nombre": "Pedagogia de la esperanza : un reencuentro con la pedagogia del oprimido (2005)",
+      "autor": "Freire, Paulo; Nuñez Hurtado, Carlos; Araújo Freire, Ana Maria ; Mastrángelo, Stella, MS",
+      "ISBN": "9789879870181",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789879870181-L.jpg"
+    },
+    {
+      "id": "809682",
+      "nombre": "Pedagogía de la esperanza : un reencuentro con la pedagogía del oprimido (2 ed.) (2011)",
+      "autor": "Freire, Paulo; Araújo Freire, Ana Maria ; Nuñez Hurtado, Carlos; Mastrangelo Puech, Stella",
+      "ISBN": "9786070302985",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786070302985-L.jpg"
+    },
+    {
+      "id": "749476",
+      "nombre": "Freire : vigencia y desafíos (2005)",
+      "autor": "Acevedo Aguirre, Mario Albeiro; Torres Carrillo, Alfonso; Mejía Jiménez, Marco Raúl; Sequeda Osorio, Mario; Mariño Solano, Germán",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "950943",
+      "nombre": "Reinventar la educación : abrir caminos a la metamorfosis de la humanidad (2018)",
+      "autor": "Morín, Edgar; Delgado Díaz, Carlos Jesús",
+      "ISBN": "9789588926780",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588926780-L.jpg"
+    },
+    {
+      "id": "729344",
+      "nombre": "Los siete saberes necesarios para la educación del futuro : como contribución a la reflexión internacional sobre cómo educar para un futuro sostenible (2007)",
+      "autor": "Morín, Edgar; Vallejo Gómez, Mercedes",
+      "ISBN": "9789506024222",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789506024222-L.jpg"
+    },
+    {
+      "id": "639057",
+      "nombre": "Los siete saberes necesarios para la educación del futuro (2000)",
+      "autor": "Morín, Edgar; Vallejo Gómez, Mercedes; Vallejo Gómez, Nelson; Girard, Francoise",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": null
+    },
+    {
+      "id": "732617",
+      "nombre": "Los siete saberes necesarios para la educación del futuro (2001)",
+      "autor": "Morín, Edgar",
+      "ISBN": "9789582005993",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789582005993-L.jpg"
+    },
+    {
+      "id": "953094",
+      "nombre": "Paulo Freire entre nosotros (2000)",
+      "autor": "Nuñez Hurtado, Carlos; Barrios Osuna, Irina; Valdés Gutiérrez, Gilberto; Fernández Díaz, Argelia; Sierra Penot, Martha; Padrón Echevarría, Ana Rosa; Medina González, Nereyda; Alfonso González, Georgina; Pérez Lara, Alberto; García Leyva, Mirtha; Centro Memorial \"Dr. Martin Luther King, Jr.\". Área de Educación Popular; González Rodríguez, Nydia; Mendoza Cabrera, Angela; Hernández Ciriano, Ida María",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "809682",
+      "nombre": "Pedagogía de la esperanza : un reencuentro con la pedagogía del oprimido (2 ed.) (2011)",
+      "autor": "Freire, Paulo; Araújo Freire, Ana Maria ; Nuñez Hurtado, Carlos; Mastrangelo Puech, Stella",
+      "ISBN": "9786070302985",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786070302985-L.jpg"
+    },
+    {
+      "id": "751296",
+      "nombre": "Pedagogia de la esperanza : un reencuentro con la pedagogia del oprimido (6 ed.) (2005)",
+      "autor": "Freire, Paulo; Nuñez Hurtado, Carlos; Araújo Freire, Ana Maria ; Mastrángelo, Stella, MS",
+      "ISBN": "9789682318993",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682318993-L.jpg"
+    },
+    {
+      "id": "557326",
+      "nombre": "Pedagogía de la esperanza : un reencuentro con la pedagogía del oprimido (4 ed.) (1999)",
+      "autor": "Freire, Paulo",
+      "ISBN": "9682318998",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9682318998-L.jpg"
+    },
+    {
+      "id": "736813",
+      "nombre": "Pedagogia de la esperanza : un reencuentro con la pedagogia del oprimido (2005)",
+      "autor": "Freire, Paulo; Nuñez Hurtado, Carlos; Araújo Freire, Ana Maria ; Mastrángelo, Stella, MS",
+      "ISBN": "9789879870181",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789879870181-L.jpg"
+    }
+  ]
+}

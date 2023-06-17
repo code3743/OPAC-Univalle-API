@@ -1,0 +1,357 @@
+{
+  "id": 7,
+  "facultad": "Ingeniería",
+  "lirbos": [
+    {
+      "id": "279225",
+      "nombre": "El hombre que calculaba : romance, aventuras de un singular calculista persa (2 ed.)",
+      "autor": "Tahan, Malba",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "777825",
+      "nombre": "El hombre que calculaba : un cuento oriental para descubrir las matemáticas (2009, 2015)",
+      "autor": "Tahan, Malba; Martín Arribas, Francisco",
+      "ISBN": "9788498676907",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788498676907-L.jpg"
+    },
+    {
+      "id": "836857",
+      "nombre": "El hombre que calculaba (1999)",
+      "autor": "Tahan, Malba; Murillo, Ana",
+      "ISBN": "9583005630",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9583005630-L.jpg"
+    },
+    {
+      "id": "139939",
+      "nombre": "El hombre que calculaba (1975, 2000)",
+      "autor": "Tahan, Malba; Losada, Basilio",
+      "ISBN": "9788472551176",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788472551176-L.jpg"
+    },
+    {
+      "id": "754552",
+      "nombre": "Diseño de maquinaria : síntesis y análisis de máquinas y mecanismos (4 ed.) (2009)",
+      "autor": "Norton, Robert L.; Ríos Sánchez, Miguel Ángel; Murrieta Murrieta, Jesús Elmer",
+      "ISBN": "9789701068847",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "8",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789701068847-L.jpg"
+    },
+    {
+      "id": "816212",
+      "nombre": "Máquinas y mecanismos (4 ed.) (2012)",
+      "autor": "Myszka , David H. ; Enríquez Brito, Antonio P.; Saldaña Sánchez, Sergio; Hernández Fernández, Ángel; Ahuett Garza, Horacio",
+      "ISBN": "9786073212151",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786073212151-L.jpg"
+    },
+    {
+      "id": "674744",
+      "nombre": "Problemas resueltos de teoría de máquinas y mecanismos (2004)",
+      "autor": "Suñer Martínez, Josep-Lluis; Rubio Montoya, Francisco José; Mata Amela, Vicente; Albelda Vitoria, José; Cuadrado Iglesias, Juan Ignacio",
+      "ISBN": "9701508882",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9701508882-L.jpg"
+    },
+    {
+      "id": "678825",
+      "nombre": "Mecanismos (v2) (1994)",
+      "autor": "Correa R., Julio César",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "7242",
+      "nombre": "Teoria de maquinas y mecanismos (2ed.) (1975)",
+      "autor": "Golubev, Yuri",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "718417",
+      "nombre": "El alquimista (2008)",
+      "autor": "Coelho de Souza, Paulo; Montserrat, Mira",
+      "ISBN": "9788408083481",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788408083481-L.jpg"
+    },
+    {
+      "id": "862864",
+      "nombre": "El alquimista (2012)",
+      "autor": "Coelho de Souza, Paulo; Montserrat, Mira",
+      "ISBN": "9788408019060",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788408019060-L.jpg"
+    },
+    {
+      "id": "916037",
+      "nombre": "El alquimista (2016)",
+      "autor": "Coelho de Souza, Paulo; Mira, Montserrat",
+      "ISBN": "9789584251893",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584251893-L.jpg"
+    },
+    {
+      "id": "948326",
+      "nombre": "El alquimista ([s.f.])",
+      "autor": "Coelho de Souza, Paulo; Mira, Montserrat",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "628729",
+      "nombre": "El alquimista (2004)",
+      "autor": "Coelho de Souza, Paulo",
+      "ISBN": "9587060776",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9587060776-L.jpg"
+    },
+    {
+      "id": "702281",
+      "nombre": "Fundamentos de ingeniería económica (4 ed.) (2007)",
+      "autor": "Baca Urbina, Gabriel",
+      "ISBN": "9789701061138",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789701061138-L.jpg"
+    },
+    {
+      "id": "790235",
+      "nombre": "Fundamentos de ingeniería económica (5 ed.) (2011)",
+      "autor": "Baca Urbina, Gabriel",
+      "ISBN": "9786071505385",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "8",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786071505385-L.jpg"
+    },
+    {
+      "id": "870745",
+      "nombre": "Ingeniería económica (Sexta edición) (2015)",
+      "autor": "Baca Urbina, Gabriel ; Rocha Martínez, Marcela I.",
+      "ISBN": "9786071512444",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "6",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786071512444-L.jpg"
+    },
+    {
+      "id": "759385",
+      "nombre": "Fundamentos de ingeniería económica (2 ed.) (2009)",
+      "autor": "Park, Chan S.; Alba Ramírez, Verónica del Carmen; González Hernández , Filiberto; Montúfar Benítez, Marco Antonio; Azpúrua Arreaza, Henrique José",
+      "ISBN": "9786074422207",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786074422207-L.jpg"
+    },
+    {
+      "id": "686673",
+      "nombre": "Ingeniería económica (4 ed.) (2002)",
+      "autor": "Riggs, James L.; Bedworgh, David D.; Randhawa , Sabah U.; Cárdenas Loera, Olivia del C.; González Osuna, Marcia Aída",
+      "ISBN": "9789701506394",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789701506394-L.jpg"
+    },
+    {
+      "id": "750336",
+      "nombre": "El grupo y el inconsciente : lo imaginario grupal (2009)",
+      "autor": "Anzieu, Didier; Vidaurrazaga Zimmermann, Sofía",
+      "ISBN": "9788497429511",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788497429511-L.jpg"
+    },
+    {
+      "id": "936083",
+      "nombre": "El grupo y el inconsciente : lo imaginario grupal",
+      "autor": "Anzieu, Didier; Vidaurrazaga Zimmermann, Sofía",
+      "ISBN": "9788470302664",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788470302664-L.jpg"
+    },
+    {
+      "id": "750854",
+      "nombre": "La senda del perdedor (1998)",
+      "autor": "Bukowski, Charles; Berlanga, Jorge; Giménez Caballero Alba, Ernesto",
+      "ISBN": "9788433914699",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788433914699-L.jpg"
+    },
+    {
+      "id": "552730",
+      "nombre": "Factotum (2000)",
+      "autor": "Bukowski, Charles; Berlanga, Jorge",
+      "ISBN": "9788433920058",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788433920058-L.jpg"
+    },
+    {
+      "id": "740651",
+      "nombre": "Factotum (2007)",
+      "autor": "Bukowski, Charles; Berlanga, Jorge",
+      "ISBN": "9788433974099",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788433974099-L.jpg"
+    },
+    {
+      "id": "781587",
+      "nombre": "Ingeniería de control moderna (Quinta edición) (2010)",
+      "autor": "Ogata, Katsuhiko; Dormido Canto, Sebastián; Dormido Canto, Raquel; Dormido Bencomo, Sebastián; Mariani, Amadeo; Picco, Juan Eduardo; Mantz, Ricardo Julián; Rossello, Jorge Raúl",
+      "ISBN": "9788483226605",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "12",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788483226605-L.jpg"
+    },
+    {
+      "id": "634184",
+      "nombre": "Ingeniería de control moderna (Cuarta edición) (2007)",
+      "autor": "Ogata, Katsuhiko; Dormido Canto, Sebastián; Dormido Canto, Raquel; Dormido Bencomo, Sebastián",
+      "ISBN": "9788420536781",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "16",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788420536781-L.jpg"
+    },
+    {
+      "id": "74811",
+      "nombre": "Ingeniería de control moderna (2 ed.) (1993)",
+      "autor": "Ogata, Katsuhiko",
+      "ISBN": "9688802344",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "8",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9688802344-L.jpg"
+    },
+    {
+      "id": "9183",
+      "nombre": "Ingeniería de control moderna (c1980)",
+      "autor": "Ogata, Katsuhiko",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": null
+    },
+    {
+      "id": "100482",
+      "nombre": "Ingeniería de control moderna (3 ed.) (c1998)",
+      "autor": "Ogata, Katsuhiko; Martinez Sarmiento, Miguel Angel",
+      "ISBN": "9701700481",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "16",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9701700481-L.jpg"
+    },
+    {
+      "id": "901573",
+      "nombre": "Valoración de un portafolio de fuentes de generación de energías renovables en ambientes Smart Grid y programas de respuesta a la demanda [recurso electrónico] (2016)",
+      "autor": "Restrepo Garcés, Álvaro René; Lozano Moncada, Carlos Arturo; Manotas Duque, Diego Fernando",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "722921",
+      "nombre": "Formulación y evaluación de proyectos (2008)",
+      "autor": "Rodríguez Cairo, Vladimir; Bao García, Raúl; Cárdenas Lucero, Luis",
+      "ISBN": "9789681871710",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "11",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789681871710-L.jpg"
+    },
+    {
+      "id": "1006089",
+      "nombre": "Ingeniería económica (Octava edición) (2020)",
+      "autor": "Blank, Leland T.; Tarquin, Anthony J.; Valiñas Coalla, María Isabel; Navarro Salas, Rodolfo",
+      "ISBN": "9786071514608",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786071514608-L.jpg"
+    },
+    {
+      "id": "813832",
+      "nombre": "Ingeniería económica (7 ed.) (2012)",
+      "autor": "Blank, Leland T.; Tarquin, Anthony J.; Martínez del Campo Varela, Guillermo; González Hernández , Filiberto; Lara Delfín, Maria del Rosario; Valenzuela Ocaña, Karla Beatriz; Enríquez Brito, Javier",
+      "ISBN": "9786071507617",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "9",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786071507617-L.jpg"
+    },
+    {
+      "id": "634011",
+      "nombre": "Ingeniería económica (5ed.) (2003)",
+      "autor": "Blank, Leland T.",
+      "ISBN": "9701039483",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9701039483-L.jpg"
+    },
+    {
+      "id": "717726",
+      "nombre": "Un reencuentro con el principito (2006)",
+      "autor": "Davidts, Jean-Pierre; Celestial Conectión",
+      "ISBN": "9788478085132",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788478085132-L.jpg"
+    },
+    {
+      "id": "741896",
+      "nombre": "El principito [videograbación]",
+      "autor": "Donen, Stanley",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "815732",
+      "nombre": "El principito (1997)",
+      "autor": "Saint-Exupery, Antoine de",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "578942",
+      "nombre": "El principito [grabación sonora]",
+      "autor": "Saint-Exupery, Antoine de; Munévar, Santiago",
+      "ISBN": null,
+      "detalle": "Grabaciones Sonoras/CD-ROM - Grabaciones Sonoras",
+      "ejemplares": "0",
+      "imagenUrl": null
+    },
+    {
+      "id": "580599",
+      "nombre": "El Principito (2011)",
+      "autor": "Saint-Exupery, Antoine de",
+      "ISBN": "9589691102",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9589691102-L.jpg"
+    }
+  ]
+}

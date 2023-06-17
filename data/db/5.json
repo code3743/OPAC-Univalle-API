@@ -1,0 +1,420 @@
+{
+  "id": 5,
+  "facultad": "Ciencias Sociales y Económicas",
+  "lirbos": [
+    {
+      "id": "894720",
+      "nombre": "La riqueza de las naciones : (libros I-II-III y selección de los libros IV y V) (2011)",
+      "autor": "Smith, Adam; Rodríguez Braun, Carlos",
+      "ISBN": "9788420650968",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788420650968-L.jpg"
+    },
+    {
+      "id": "871327",
+      "nombre": "Un análisis crítico y retrospectivo de la teoría del crecimiento económico [recurso electrónico]",
+      "autor": "Sánchez Cuevas, Edgar Hernando; Ortíz Quevedo, Carlos Humberto",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "799314",
+      "nombre": "El capitalismo y la riqueza de las naciones (2009)",
+      "autor": "Aguirre Rodríguez, José Antonio De",
+      "ISBN": "9788472094758",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788472094758-L.jpg"
+    },
+    {
+      "id": "686901",
+      "nombre": "Sociología, capitalismo y democracia : génesis e institucionalización de la sociología en Occidente (2004)",
+      "autor": "Álvarez-Uría, Fernando; Varela, Julia",
+      "ISBN": "9788471124951",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "7",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788471124951-L.jpg"
+    },
+    {
+      "id": "816750",
+      "nombre": "Ética, economía y política (2011)",
+      "autor": "Casares Ripol, Javier",
+      "ISBN": "9788473568067",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788473568067-L.jpg"
+    },
+    {
+      "id": "637128",
+      "nombre": "Escritos sociológicos I (v1) : obra completa, 8 (2004)",
+      "autor": "Adorno, Theodor Ludwig Wiesengrund; Tiedemann, Rolf; Adorno, Gretel; González Ruiz, Agustín",
+      "ISBN": "9788446016755",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788446016755-L.jpg"
+    },
+    {
+      "id": "799031",
+      "nombre": "La sociología: construcción categorial, objeto y método (2010)",
+      "autor": "Aguilar Gil, Martha",
+      "ISBN": "9788430951093",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788430951093-L.jpg"
+    },
+    {
+      "id": "676950",
+      "nombre": "La mirada cualitativa en sociología : una aproximación interpretativa (1998)",
+      "autor": "Alonso Benito, Luis Enrique",
+      "ISBN": "8424507762",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8424507762-L.jpg"
+    },
+    {
+      "id": "620347",
+      "nombre": "Términos críticos de sociología de la cultura (2002)",
+      "autor": "Altamirano, Carlos",
+      "ISBN": "9501273296",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9501273296-L.jpg"
+    },
+    {
+      "id": "762257",
+      "nombre": "Sociología de las instituciones : bases sociales y culturales de la conducta (2009)",
+      "autor": "Álvarez-Uría, Fernando; Varela, Julia",
+      "ISBN": "9788471126023",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788471126023-L.jpg"
+    },
+    {
+      "id": "722413",
+      "nombre": "Rebelión tricontinental : las voces de los condenados de la tierra de África, Asia y América Latina (2006)",
+      "autor": "Estrada, Ulises; Suárez, Luis",
+      "ISBN": "9781920888589",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9781920888589-L.jpg"
+    },
+    {
+      "id": "527342",
+      "nombre": "Los condenados de la tierra (2ed.) (1980, 1986)",
+      "autor": "Fanon, Frantz",
+      "ISBN": "9681609719",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9681609719-L.jpg"
+    },
+    {
+      "id": "861940",
+      "nombre": "Los condenados de la tierra (3 ed.) (2001)",
+      "autor": "Fanon, Frantz; Sartre, Jean Paul; Chaliand, Gerard; Campos, Julieta",
+      "ISBN": "9789681664299",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789681664299-L.jpg"
+    },
+    {
+      "id": "920415",
+      "nombre": "El humanismo como salida de la condena : una lectura de \"Los condenados de la tierra\" [recurso electrónico]",
+      "autor": "Guerra Gómez, María Isabel; Miranda Echeverry , Camilo Andres",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "706723",
+      "nombre": "Introducción al pensamiento socialista : el socialismo como ética revolucionaria y teoría de la rebelión (2007)",
+      "autor": "Kohan, Néstor",
+      "ISBN": "9781921235528",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9781921235528-L.jpg"
+    },
+    {
+      "id": "992300",
+      "nombre": "El choque de civilizaciones? y otros ensayos sobre Occidente (2020)",
+      "autor": "Huntington, Samuel Phillips; Riaño de Hoz, Irene; Palacio Martín, Jorge del",
+      "ISBN": "9788491818373",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788491818373-L.jpg"
+    },
+    {
+      "id": "696954",
+      "nombre": "El orden del 11 de septiembre (2002)",
+      "autor": "Madrid-Cardénas, Marlon R.",
+      "ISBN": "958701149X",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/958701149X-L.jpg"
+    },
+    {
+      "id": "750755",
+      "nombre": "La ilusión del fin : o la huelga de los acontecimientos (1997)",
+      "autor": "Baudrillard, Jean; Kauf, Thomas",
+      "ISBN": "9788433913722",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788433913722-L.jpg"
+    },
+    {
+      "id": "763819",
+      "nombre": "Diversidad cultural e interculturalidad : propuestas didácticas para la problematización y la discusión : materiales para la construcción de cursos (2009)",
+      "autor": "Berttolini, Marisa; Langon C., Mauricio",
+      "ISBN": "9789875382299",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789875382299-L.jpg"
+    },
+    {
+      "id": "691517",
+      "nombre": "Los musulmanes (2004)",
+      "autor": "Branca, Paolo; Izquierdo Ramón, Miguel",
+      "ISBN": "8420656453",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8420656453-L.jpg"
+    },
+    {
+      "id": "751296",
+      "nombre": "Pedagogia de la esperanza : un reencuentro con la pedagogia del oprimido (6 ed.) (2005)",
+      "autor": "Freire, Paulo; Nuñez Hurtado, Carlos; Araújo Freire, Ana Maria ; Mastrángelo, Stella, MS",
+      "ISBN": "9789682318993",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682318993-L.jpg"
+    },
+    {
+      "id": "744153",
+      "nombre": "Pedagogía del oprimido (Segunda edición) (2005)",
+      "autor": "Freire, Paulo; Mellado, Jorge",
+      "ISBN": "9789682325892",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "8",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789682325892-L.jpg"
+    },
+    {
+      "id": "946814",
+      "nombre": "Pedagogía del oprimido (2012)",
+      "autor": "Freire, Paulo; Mellado, Jorge",
+      "ISBN": "9788415555025",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788415555025-L.jpg"
+    },
+    {
+      "id": "764859",
+      "nombre": "Las ideas pedagógicas de Paulo Freire : pedagogía, política y sociedad (2010)",
+      "autor": "Malagón Plata, Luis Alberto",
+      "ISBN": "9789582010126",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789582010126-L.jpg"
+    },
+    {
+      "id": "809682",
+      "nombre": "Pedagogía de la esperanza : un reencuentro con la pedagogía del oprimido (2 ed.) (2011)",
+      "autor": "Freire, Paulo; Araújo Freire, Ana Maria ; Nuñez Hurtado, Carlos; Mastrangelo Puech, Stella",
+      "ISBN": "9786070302985",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786070302985-L.jpg"
+    },
+    {
+      "id": "890633",
+      "nombre": "El príncipe de Maquiavelo : desafíos, legados y significados (2014)",
+      "autor": "López Rivera, Jorge Andrés",
+      "ISBN": "9789588856322",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588856322-L.jpg"
+    },
+    {
+      "id": "147687",
+      "nombre": "El gatopardo (1983)",
+      "autor": "Tomasi di Lampedusa, Giuseppe; Gutiérrrez, Fernando",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": null
+    },
+    {
+      "id": "745338",
+      "nombre": "Educación del príncipe cristiano (2 ed.) (2007)",
+      "autor": "Erasmo de Rotterdam, Desiderio",
+      "ISBN": "9788430945146",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788430945146-L.jpg"
+    },
+    {
+      "id": "977554",
+      "nombre": "Sistematización del proceso de aproximación al personaje: el príncipe Mishkin en el proyecto el Idiota de Chernóbil [recurso electrónico]",
+      "autor": "Luna Viana, Yimer Armando; González Puche, Alejandro",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/Digital PDF - Tesis o Trabajo de grado",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "832307",
+      "nombre": "El príncipe (5 ed.) (1974)",
+      "autor": "Maquiavelo, Nicolás; Espina, A.",
+      "ISBN": "8471560577",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8471560577-L.jpg"
+    },
+    {
+      "id": "844925",
+      "nombre": "La sociedad del cansancio (2012)",
+      "autor": "Han, Byung-Chul; Saratxaga Arregi, Arantzazu",
+      "ISBN": "9788425428685",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425428685-L.jpg"
+    },
+    {
+      "id": "956258",
+      "nombre": "La sociedad del cansancio (Segunda edición ampliada) (2017)",
+      "autor": "Han, Byung-Chul; Saratxaga Arregi, Arantzazu; Ciria , Alberto",
+      "ISBN": "9788425438547",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425438547-L.jpg"
+    },
+    {
+      "id": "949666",
+      "nombre": "La melancolía moderna (2017)",
+      "autor": "Bartra Murià, Roger",
+      "ISBN": "9786071653543",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786071653543-L.jpg"
+    },
+    {
+      "id": "1002434",
+      "nombre": "La sociedad paliativa : el dolor hoy (2021)",
+      "autor": "Han, Byung-Chul",
+      "ISBN": "9788425446313",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788425446313-L.jpg"
+    },
+    {
+      "id": "785826",
+      "nombre": "Sobre el malestar en la cultura de Sigmund Freud (2005)",
+      "autor": "Le Rider, Jacques; Plon, Michel; Raulet, Gérard; Rey-Flaud, Henri; Marengo, Elena",
+      "ISBN": "9789506024949",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789506024949-L.jpg"
+    },
+    {
+      "id": "789654",
+      "nombre": "El malestar en la cultura y otros ensayos (1970)",
+      "autor": "Freud, Sigmund",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "409004",
+      "nombre": "El malestar en la cultura y otros ensayos (1973, 1975, 1979, 1984)",
+      "autor": "Freud, Sigmund; Rey Ardid, Ramón; López Ballesteros y de Torres, Luis",
+      "ISBN": "8420612804",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "14",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8420612804-L.jpg"
+    },
+    {
+      "id": "895128",
+      "nombre": "El malestar en la cultura y otros ensayos (Tercera edición) (2010)",
+      "autor": "Freud, Sigmund; Rey Ardid, Ramón",
+      "ISBN": "9788420664149",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788420664149-L.jpg"
+    },
+    {
+      "id": "729704",
+      "nombre": "A medio siglo de el malestar en la cultura de Sigmund Freud (8 ed.) (2001)",
+      "autor": "Braunstein, Nestor A.",
+      "ISBN": "9682310482",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9682310482-L.jpg"
+    },
+    {
+      "id": "576833",
+      "nombre": "Introducción a las ciencias sociales : sociedad y cultura contemporáneas (1998)",
+      "autor": "Torres Martínez, Lizandra; Torres Rivera , Lina M.",
+      "ISBN": "9687529229",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9687529229-L.jpg"
+    },
+    {
+      "id": "697933",
+      "nombre": "Cultura, identidades y saberes fronterizos : memorias del Congreso Internacional Nuevos Paradigmas Transdisciplinarios en las Ciencias Humanas (v1) (2005)",
+      "autor": "Congreso Internacional Nuevos Paradigmas Transdisciplinarios en las Ciencias Humanas; Jaramillo Jiménez, Jaime Eduardo; Universidad Nacional de Colombia",
+      "ISBN": "9587015371",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9587015371-L.jpg"
+    },
+    {
+      "id": "11505",
+      "nombre": "Sociología de la educación : corrientes contemporáneas (1981)",
+      "autor": "Gonzalez Rivera, Guillermo; Torres, Carlos Alberto; Ibarrola de Solis, Maria de; Jiménez Cabrera, Edgar; Ornelas , Carlos; Gómez Campo, Victor Manuel; Pescador , José Ángel; Carnoy, Martin; Portantiero, Juan Carlos; Campusano Volpe , Felipe; Ramírez Castañeda , Santiago ; Tenti Fanfani, Emilio; Puiggros L., Adriana Victoria; Vasconi B, Tomas Amadeo; Cadena, Félix; Munoz Izquierdo, Carlos",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "777816",
+      "nombre": "Los nuevos objetos culturales en Iberoamérica (2009)",
+      "autor": "Palacio Montiel, Celia del",
+      "ISBN": "9786077605799",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786077605799-L.jpg"
+    },
+    {
+      "id": "760113",
+      "nombre": "Derecho público y sociedad civil (2010)",
+      "autor": "Bernal García, Manuel José",
+      "ISBN": "9789589838266",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789589838266-L.jpg"
+    },
+    {
+      "id": "686735",
+      "nombre": "La privatización en América Latina : mitos y realidad (2005)",
+      "autor": "Chong, Alberto; Lopez-de-Silanes, Roberto",
+      "ISBN": "9586825957",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9586825957-L.jpg"
+    },
+    {
+      "id": "786508",
+      "nombre": "Combatir la inequidad en el sector salud : una síntesis de evidencias y herramientas (2010)",
+      "autor": "Yazbeck, Abdo",
+      "ISBN": "9789588307794",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588307794-L.jpg"
+    }
+  ]
+}

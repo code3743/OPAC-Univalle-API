@@ -1,0 +1,321 @@
+{
+  "id": 3,
+  "facultad": "Ciencias de la Administración",
+  "lirbos": [
+    {
+      "id": "895134",
+      "nombre": "Gestión empresarial por competencias (2012)",
+      "autor": "Lozano Reyes, Fausto",
+      "ISBN": "9789972464744",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789972464744-L.jpg"
+    },
+    {
+      "id": "864945",
+      "nombre": "Ciudad y mercancías : logística urbana: políticas de movilidad y soluciones de gestión de la logística urbana para las empresas y los organismos públicos (Segunda edición) (2013)",
+      "autor": "Institut Cerdà",
+      "ISBN": "9786077075417",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786077075417-L.jpg"
+    },
+    {
+      "id": "595354",
+      "nombre": "Marketing global marketing (2002)",
+      "autor": "Kotabe, Masaaki; Helsen , Kristiaan; Escoffié Martínez, Hugo Iván; Pérez Vázquez, Fernando Roberto; Morales, Marco A.",
+      "ISBN": "9789681857691",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789681857691-L.jpg"
+    },
+    {
+      "id": "798382",
+      "nombre": "La quinta disciplina : cómo impulsar el aprendizaje en la organización inteligente (2009, 2015)",
+      "autor": "Senge, Peter M.; Gardini, Carlos",
+      "ISBN": "9789506414306",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789506414306-L.jpg"
+    },
+    {
+      "id": "764433",
+      "nombre": "El arte de la guerra (2006)",
+      "autor": "Maquiavelo, Nicolás; Navarro, Luis",
+      "ISBN": "9684765452",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9684765452-L.jpg"
+    },
+    {
+      "id": "959439",
+      "nombre": "El arte de la guerra : el manga (2016)",
+      "autor": "Sun, Tzu, 544 a 496 a. C.; Madinabeitia, Maite; Variety Art Works",
+      "ISBN": "9788416540662",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788416540662-L.jpg"
+    },
+    {
+      "id": "884083",
+      "nombre": "El arte de la guerra (2012)",
+      "autor": "Sun Tzu, S; Sunzi, S; Galvany, Albert; Levi, Jean",
+      "ISBN": "9788498793321",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788498793321-L.jpg"
+    },
+    {
+      "id": "967821",
+      "nombre": "El arte de la guerra (2018)",
+      "autor": "Sun Tzu, S",
+      "ISBN": "9788496595583",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788496595583-L.jpg"
+    },
+    {
+      "id": "961976",
+      "nombre": "El arte de la guerra (Novena edición) (2017)",
+      "autor": "Sunzi, S; Levi, Jean; Galvany, Albert",
+      "ISBN": "9788498797022",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788498797022-L.jpg"
+    },
+    {
+      "id": "646218",
+      "nombre": "El mito del emprendedor : por qué no funcionan las pequeñas empresas y qué hacer para que funcionen (1998)",
+      "autor": "Gerber, Michael E.; Sánchez M., Guillermo",
+      "ISBN": "8449303656",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8449303656-L.jpg"
+    },
+    {
+      "id": "1005781",
+      "nombre": "Más allá del mito : una visión menos adornada de cómo piensan y actúan los emprendedores (2021)",
+      "autor": "Acevedo Niño , Andrés",
+      "ISBN": "9789588988535",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588988535-L.jpg"
+    },
+    {
+      "id": "830140",
+      "nombre": "El arte de hacer riqueza (2012)",
+      "autor": "Durán Ramírez, Felipe",
+      "ISBN": "9789587360233",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587360233-L.jpg"
+    },
+    {
+      "id": "834093",
+      "nombre": "De empleado a empresario : un camino hacia la libertad (2 ed.) (2006)",
+      "autor": "Durán Vera, Humberto",
+      "ISBN": "9789583391491",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789583391491-L.jpg"
+    },
+    {
+      "id": "951295",
+      "nombre": "Cómo montar un negocio online (2017)",
+      "autor": "Pascual Iribarren, Borja",
+      "ISBN": "9788417044084",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788417044084-L.jpg"
+    },
+    {
+      "id": "733245",
+      "nombre": "Padre rico, padre pobre : qué les enseñan los ricos a sus hijos acerca del dinero, ¡que las clases media y pobre no! (2007)",
+      "autor": "Kiyosaki, Robert Toru; Lechter, Sharon L.; Álvarez del Castillo, Fernando",
+      "ISBN": "9781603961752",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "5",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9781603961752-L.jpg"
+    },
+    {
+      "id": "630045",
+      "nombre": "Padre rico, padre pobre : qué les enseñan los ricos a sus hijos acerca del dinero, ¡que las clases media y pobre no! (2 ed.) (2004)",
+      "autor": "Kiyosaki, Robert Toru; Lechter, Sharon L.",
+      "ISBN": "9587042026",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9587042026-L.jpg"
+    },
+    {
+      "id": "870494",
+      "nombre": "Padre rico, padre pobre : qué les enseñan los ricos a sus hijos acerca del dinero, ¡que los pobres y la clase media no! (Segunda edición actualizada) (2013)",
+      "autor": "Kiyosaki, Robert Toru; Ramos Aragón, Alejandra",
+      "ISBN": "9789587585919",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587585919-L.jpg"
+    },
+    {
+      "id": "1019772",
+      "nombre": "Padre rico, padre pobre : qué les enseñan los ricos a sus hijos acerca del dinero, ¡que los pobres y la clase media no! (2022)",
+      "autor": "Kiyosaki, Robert Toru; Ramos Aragón, Alejandra",
+      "ISBN": "9789585425293",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789585425293-L.jpg"
+    },
+    {
+      "id": "799732",
+      "nombre": "Historias de éxito : experiencias verdaderas de personas que siguieron las lecciones del Padre Rico (2009)",
+      "autor": "Kiyosaki, Robert Toru; Lechter, Sharon L.; Giovine, María Andrea",
+      "ISBN": "9789587048964",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587048964-L.jpg"
+    },
+    {
+      "id": "817382",
+      "nombre": "Competencia global : derecho, mercados y globalización (2012)",
+      "autor": "Gerber, David J.; Cortázar Mora, Javier",
+      "ISBN": "9789583508936",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789583508936-L.jpg"
+    },
+    {
+      "id": "837751",
+      "nombre": "Las alianzas estratégicas : un enfoque empresarial a la globalización (1996)",
+      "autor": "Yoshino, Michael Y.; Rangan, U. Srinivasa; Rabasco Espáriz, María Esther",
+      "ISBN": "9788434414167",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788434414167-L.jpg"
+    },
+    {
+      "id": "727722",
+      "nombre": "Proceso administrativo para las organizaciones del siglo XXI (2008)",
+      "autor": "Bernal Torres, César Augusto; Sierra Arango, Hernán Darío",
+      "ISBN": "9789702615620",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789702615620-L.jpg"
+    },
+    {
+      "id": "600680",
+      "nombre": "Empresa y estrategia en la perspectiva de la competencia global (2000)",
+      "autor": "Brunet Icard, Ignasi; Belzunegui, Angel",
+      "ISBN": "843442164X",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/843442164X-L.jpg"
+    },
+    {
+      "id": "748064",
+      "nombre": "Ciudadano económico, ciudadano del estado, ciudadano del mundo : ética política en la era de la globalización (2007)",
+      "autor": "Hoffe, Otfried; Díaz Rocca , Carlos",
+      "ISBN": "9788493543259",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788493543259-L.jpg"
+    },
+    {
+      "id": "937207",
+      "nombre": "Pensar rápido, pensar despacio (2012)",
+      "autor": "Kahneman, Daniel; Chamorro Mielke, Joaquín",
+      "ISBN": "9789588613680",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588613680-L.jpg"
+    },
+    {
+      "id": "958651",
+      "nombre": "Pensar rápido, pensar despacio (2013)",
+      "autor": "Kahneman, Daniel; Chamorro Mielke, Joaquín",
+      "ISBN": "9789585433564",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789585433564-L.jpg"
+    },
+    {
+      "id": "971368",
+      "nombre": "Las 21 leyes irrefutables del liderazgo (2007)",
+      "autor": "Maxwell, John C; Covey, Stephen R.; Valverde, Hubert",
+      "ISBN": "9781602550278",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9781602550278-L.jpg"
+    },
+    {
+      "id": "838112",
+      "nombre": "Los 21 minutos más poderosos en el día de un líder : revitalice su espíritu y fortalezca su liderazgo (2001)",
+      "autor": "Maxwell, John C; Vega, Pedro de la",
+      "ISBN": "9780881136296",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9780881136296-L.jpg"
+    },
+    {
+      "id": "762030",
+      "nombre": "Guía para la formulación de proyectos de investigación (2004)",
+      "autor": "Castillo Sánchez, Mauricio",
+      "ISBN": "9789582007669",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789582007669-L.jpg"
+    },
+    {
+      "id": "763700",
+      "nombre": "Competencias sociales y convivencia : herramientas de análisis y proyectos de intervención (2008)",
+      "autor": "Coronado, Mónica",
+      "ISBN": "9789875382107",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789875382107-L.jpg"
+    },
+    {
+      "id": "645834",
+      "nombre": "Ordena tu casa con el feng shui : guía paso a paso para renovar tu hogar (2004)",
+      "autor": "Lambert, Mary; Guix, Joan Carles",
+      "ISBN": "8497541197",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8497541197-L.jpg"
+    },
+    {
+      "id": "781567",
+      "nombre": "Emprendedores (2011)",
+      "autor": "Villalobos, Gustavo; Carman Avendaño, Samuel; Arriaga Segundo, Leobardo",
+      "ISBN": "9786070501784",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786070501784-L.jpg"
+    },
+    {
+      "id": "890606",
+      "nombre": "Volver al Edén : un viaje de autodescubrimiento (1993)",
+      "autor": "Gawain, Shakti",
+      "ISBN": "9507423311",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9507423311-L.jpg"
+    },
+    {
+      "id": "1005392",
+      "nombre": "Entrenando al inversor inteligente : psicología y neuro finanzas para inversores y traders (2021)",
+      "autor": "Estañ Homs, Rosa",
+      "ISBN": "9789587923056",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587923056-L.jpg"
+    },
+    {
+      "id": "670160",
+      "nombre": "Actividades prácticas. Proyectos (v3) (2002)",
+      "autor": "Ramos Ramos, Guillermo; Hernandez M., Jorge Eduardo; Castaño Welgos, Juan Andres",
+      "ISBN": "9586574644",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9586574644-L.jpg"
+    }
+  ]
+}

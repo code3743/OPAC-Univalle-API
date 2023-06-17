@@ -1,0 +1,420 @@
+{
+  "id": 6,
+  "facultad": "Humanidades",
+  "lirbos": [
+    {
+      "id": "735651",
+      "nombre": "Legend : the best of Bob Marley and The Wailers (v2) [grabación sonora]",
+      "autor": "Marley, Bob",
+      "ISBN": null,
+      "detalle": "Grabaciones Sonoras/CD-ROM - Grabaciones Sonoras",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "951557",
+      "nombre": "Greystoke, la leyenda de Tarzán, el rey de los simios [videograbación]",
+      "autor": "Hudson, Hugh",
+      "ISBN": "7509036231820",
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/7509036231820-L.jpg"
+    },
+    {
+      "id": "923343",
+      "nombre": "Greystoke, the legend of Tarzán [videograbación]",
+      "autor": "Hudson, Hugh",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "923342",
+      "nombre": "Greystoke, the legend of Tarzán [videograbación]",
+      "autor": "Hudson, Hugh",
+      "ISBN": "085391137535",
+      "detalle": "Videos/Videocasete - Videos",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/085391137535-L.jpg"
+    },
+    {
+      "id": "827380",
+      "nombre": "La oscura navidad de 1876 en Cali : algunas palabras y recortes de los 80 (2008)",
+      "autor": "Cantero Recio, Jose Manuel",
+      "ISBN": "9789584435071",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584435071-L.jpg"
+    },
+    {
+      "id": "662360",
+      "nombre": "Homenaje a Gabriel García Márquez : variaciones interpretativas en torno a su obra (1972)",
+      "autor": "Giacoman, Helmy F.",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "697516",
+      "nombre": "Cien años de soledad : texto revisado por el autor para esta edición (Edición conmemorativa) (2007)",
+      "autor": "García Márquez, Gabriel; Real Academia Española; Asociación de Academias de la Lengua Española",
+      "ISBN": "8420471836",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8420471836-L.jpg"
+    },
+    {
+      "id": "785527",
+      "nombre": "Cien años de soledad ; El otoño del patriarca ; El coronel no tiene quien le escriba (1997)",
+      "autor": "García Márquez, Gabriel; Armiño, Mauro",
+      "ISBN": "9788423988259",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788423988259-L.jpg"
+    },
+    {
+      "id": "432673",
+      "nombre": "Cien años de soledad (Novena edición.) (1982)",
+      "autor": "García Márquez, Gabriel",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "9",
+      "imagenUrl": null
+    },
+    {
+      "id": "944091",
+      "nombre": "De Comala a Macondo (2017)",
+      "autor": "Martinez, Fabio",
+      "ISBN": "9789587655445",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587655445-L.jpg"
+    },
+    {
+      "id": "870813",
+      "nombre": "Luces y sombras en la investigación clínica (2014)",
+      "autor": "Dal-Ré, Rafael; Carné, Xavier; Gracia, Diego",
+      "ISBN": "9788495840837",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788495840837-L.jpg"
+    },
+    {
+      "id": "914614",
+      "nombre": "Ensayos fisicoquímicos (2015)",
+      "autor": "Olmo Bueno, Gemma",
+      "ISBN": "9788490771440",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788490771440-L.jpg"
+    },
+    {
+      "id": "776997",
+      "nombre": "Comparación de aireación en bandejas y en torre compacta para tratamiento en flujo confinado de hierro y manganeso en aguas subterráneas : caso corregimiento El Hormiguero [recurso electrónico]",
+      "autor": "García Calderón, Jorge Humberto; Cruz, Camilo Hernán",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "840040",
+      "nombre": "Ensayos cotidianos (2004)",
+      "autor": "Varela, Hector Fabio",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "893893",
+      "nombre": "Interpretación de los ensayos geotécnicos en suelos (2012)",
+      "autor": "Morilla Abad, Ignacio",
+      "ISBN": "9788461603138",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788461603138-L.jpg"
+    },
+    {
+      "id": "956901",
+      "nombre": "Peste y amor en El amor en los tiempos del cólera de Gabriel García Márquez: una mirada relacional [recurso electrónico]",
+      "autor": "Benavides Guevara, Cristian Alejandro; Vásquez Gómez, Víctor Hugo",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "730414",
+      "nombre": "El amor en los tiempos del cólera (2008)",
+      "autor": "García Márquez, Gabriel",
+      "ISBN": "9789584503381",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584503381-L.jpg"
+    },
+    {
+      "id": "1016444",
+      "nombre": "El amor en los tiempos del cólera (2007)",
+      "autor": "García Márquez, Gabriel",
+      "ISBN": "9789584505934",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584505934-L.jpg"
+    },
+    {
+      "id": "804325",
+      "nombre": "El amor en los tiempos del cólera",
+      "autor": "Newell, Mike",
+      "ISBN": "086162379185",
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/086162379185-L.jpg"
+    },
+    {
+      "id": "849824",
+      "nombre": "El arte nuevo de hacer libros : archivo Carrión I (2012)",
+      "autor": "Carrión, Ulises; Agius, Juan J.; Yépes, Heriberto",
+      "ISBN": "9786074559705",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786074559705-L.jpg"
+    },
+    {
+      "id": "750096",
+      "nombre": "Ulises [videograbación]",
+      "autor": "Camerini, Mario; Homerus",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "840525",
+      "nombre": "Joyce (1982)",
+      "autor": "Valverde, José María",
+      "ISBN": "8475330088",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8475330088-L.jpg"
+    },
+    {
+      "id": "800494",
+      "nombre": "Ulises / Perseo : breve conferencia sobre los héroes de la antiguedad (2010)",
+      "autor": "Vernant, Jean Pierre; Bertran, Rosa; Bertran, Marta",
+      "ISBN": "9788449323317",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788449323317-L.jpg"
+    },
+    {
+      "id": "758671",
+      "nombre": "Metamorfosis (2003)",
+      "autor": "Liberal, Antonio; Canto Nieto, José Ramón del",
+      "ISBN": "9788446017585",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788446017585-L.jpg"
+    },
+    {
+      "id": "855985",
+      "nombre": "La metamorfosis de los insectos (2013)",
+      "autor": "Bellés, Xavier",
+      "ISBN": "9788483197981",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788483197981-L.jpg"
+    },
+    {
+      "id": "909538",
+      "nombre": "Identidades trastocadas : el recurso literario y artístico de las metamorfosis disyuntivas (v2) (2016)",
+      "autor": "Gómez Goyeneche, María Antonieta",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "803684",
+      "nombre": "Identidades trastocadas (v1) : el recurso literario y artístico de las metamorfosis disyuntivas (2011)",
+      "autor": "Gómez Goyeneche, María Antonieta",
+      "ISBN": "9789586709453",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "13",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789586709453-L.jpg"
+    },
+    {
+      "id": "289479",
+      "nombre": "Antologia de las mil y una noches (1983)",
+      "autor": "Anónimo",
+      "ISBN": "8482801481",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8482801481-L.jpg"
+    },
+    {
+      "id": "907465",
+      "nombre": "Las mil y una noches (v1) (2007)",
+      "autor": "Anónimo; Vernet Gines, Juan",
+      "ISBN": "9788408055785",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788408055785-L.jpg"
+    },
+    {
+      "id": "907595",
+      "nombre": "Las mil y una noches (v2) (2005)",
+      "autor": "Anónimo; Vernet Gines, Juan",
+      "ISBN": "9788408047919",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788408047919-L.jpg"
+    },
+    {
+      "id": "907600",
+      "nombre": "Las mil y una noches (2005, 2007)",
+      "autor": "Anónimo; Vernet Gines, Juan",
+      "ISBN": "9788408047995",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "0",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788408047995-L.jpg"
+    },
+    {
+      "id": "596671",
+      "nombre": "Las mil y una noches [videograbación]",
+      "autor": "Barron, Steve; Avital, Mili; Bates, Alan",
+      "ISBN": null,
+      "detalle": "Videos/Videocasete - Videos",
+      "ejemplares": "0",
+      "imagenUrl": null
+    },
+    {
+      "id": "785515",
+      "nombre": "Ilíada ; Odisea (1997)",
+      "autor": "Homero; Armiño, Mauro",
+      "ISBN": "9788423988013",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788423988013-L.jpg"
+    },
+    {
+      "id": "414081",
+      "nombre": "La Odisea (s.f.)",
+      "autor": "Homerus; Homero; Santullano, Luis A.",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "750100",
+      "nombre": "La Odisea [videograbación]",
+      "autor": "BBC Worldwide; Homerus",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "750096",
+      "nombre": "Ulises [videograbación]",
+      "autor": "Camerini, Mario; Homerus",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "779862",
+      "nombre": "La historia más triste del mundo (2010)",
+      "autor": "Castillo Martos, Francisco ; Lozano, Lydia; Ximénez, Mila",
+      "ISBN": "9788492609772",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788492609772-L.jpg"
+    },
+    {
+      "id": "632830",
+      "nombre": "Don Quijote de la Mancha (2005)",
+      "autor": "Cervantes Saavedra, Miguel de; Rico, Francisco",
+      "ISBN": "9789587042733",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587042733-L.jpg"
+    },
+    {
+      "id": "767247",
+      "nombre": "Don Quijote de la Mancha (2007)",
+      "autor": "Cervantes Saavedra, Miguel de; Rico, Francisco",
+      "ISBN": "9788466320405",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788466320405-L.jpg"
+    },
+    {
+      "id": "604969",
+      "nombre": "Don Quijote de la Mancha (v1) (1983)",
+      "autor": "Cervantes Saavedra, Miguel de",
+      "ISBN": "8482801708",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8482801708-L.jpg"
+    },
+    {
+      "id": "881260",
+      "nombre": "Don Quijote de la Mancha (v2) (1983)",
+      "autor": "Cervantes Saavedra, Miguel de",
+      "ISBN": "8482801716",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8482801716-L.jpg"
+    },
+    {
+      "id": "628784",
+      "nombre": "Crimen y castigo : estudio literario (2001)",
+      "autor": "Correa Losada, Antonio",
+      "ISBN": "958300829X",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/958300829X-L.jpg"
+    },
+    {
+      "id": "868152",
+      "nombre": "Análisis del discurso desde la noción de la polifonía en dos capítulos de la obra Crimen y Castigo de Dostoyevski [recurso electrónico]",
+      "autor": "Quiroz M, Diana Carolina; Ramírez T., Jhon; Vargas Franco, Alfonso",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "836336",
+      "nombre": "Crimen y castigo (1982)",
+      "autor": "Dostoyevski, Fiódor Mijáilovich; Vidal, Augusto",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "0",
+      "imagenUrl": null
+    },
+    {
+      "id": "893617",
+      "nombre": "La doble cara de la incertidumbre : Dostoievski en el teatro libre (2010)",
+      "autor": "Camacho, Ricardo; Jaramillo, Patricia",
+      "ISBN": "9789586954884",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789586954884-L.jpg"
+    },
+    {
+      "id": "739523",
+      "nombre": "Crimen y castigo en la modernidad tardía (2007)",
+      "autor": "Garland, David; Iturralde, Manuel A.; Bonilla Maldonado, Daniel",
+      "ISBN": "9789586651028",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789586651028-L.jpg"
+    }
+  ]
+}

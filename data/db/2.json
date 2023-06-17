@@ -1,0 +1,276 @@
+{
+  "id": 2,
+  "facultad": "Ciencias Naturales y Exactas",
+  "lirbos": [
+    {
+      "id": "705017",
+      "nombre": "Escribir con humor : juegos literarios en el taller (2004)",
+      "autor": "Caron, Bettina; Caron, Carlos María",
+      "ISBN": "9789505816330",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789505816330-L.jpg"
+    },
+    {
+      "id": "860083",
+      "nombre": "Infinitos infinitos : historia, filosofía y didáctica del infinito matemático (2011)",
+      "autor": "Arrigo, Gianfranco ; D´Amore, Bruno ; Sbaragli, Silvia; Jiménez, Alejandro",
+      "ISBN": "9789582010492",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789582010492-L.jpg"
+    },
+    {
+      "id": "645739",
+      "nombre": "Dónde estamos? (2004)",
+      "autor": "Carlson, Dale; Khairnar, Kishore",
+      "ISBN": "8497541162",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8497541162-L.jpg"
+    },
+    {
+      "id": "645695",
+      "nombre": "Adónde vamos? (2004)",
+      "autor": "Carlson, Dale; Khairnar, Kishore",
+      "ISBN": "8497541170",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8497541170-L.jpg"
+    },
+    {
+      "id": "802611",
+      "nombre": "El origen de las especies (2007)",
+      "autor": "Darwin, Charles Robert; Albano, Sergio",
+      "ISBN": "9789871093694",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789871093694-L.jpg"
+    },
+    {
+      "id": "762083",
+      "nombre": "Por qué la teoría de la evolución es verdadera (2009)",
+      "autor": "Coyne, Jerry A.; Riera, Joan Lluís",
+      "ISBN": "9788498920222",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788498920222-L.jpg"
+    },
+    {
+      "id": "972890",
+      "nombre": "El origen de las especies (1999)",
+      "autor": "Darwin, Charles Robert",
+      "ISBN": "9681510445",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9681510445-L.jpg"
+    },
+    {
+      "id": "908857",
+      "nombre": "El origen de las especies : el manga (2015)",
+      "autor": "Darwin, Charles Robert; Espí, Jesús",
+      "ISBN": "9788416540006",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788416540006-L.jpg"
+    },
+    {
+      "id": "786823",
+      "nombre": "El origen de las especies (Segunda edición) (2009)",
+      "autor": "Darwin, Charles Robert; Comas, Juan; Zulueta, Antonio de",
+      "ISBN": "9786072003859",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9786072003859-L.jpg"
+    },
+    {
+      "id": "929502",
+      "nombre": "El gen : una historia personal",
+      "autor": "Mukherjee, Siddhartha",
+      "ISBN": "9788499926520",
+      "detalle": "Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788499926520-L.jpg"
+    },
+    {
+      "id": "27042",
+      "nombre": "Teoria, técnicas, procesos y casos en el planeamiento de la educación (1974)",
+      "autor": "Schiefelbein, Ernesto",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": null
+    },
+    {
+      "id": "24077",
+      "nombre": "Una didáctica fundada en la psicología de Jean Piaget (1958)",
+      "autor": "Aebli, Hans",
+      "ISBN": null,
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": null
+    },
+    {
+      "id": "866540",
+      "nombre": "Psicología ambiental : un enfoque general (2012, 2015)",
+      "autor": "Holahan, Charles J.; Vallejo Vizcarra, Miguel Angel; Castaño Asmitia, Carlos",
+      "ISBN": "9789681837679",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789681837679-L.jpg"
+    },
+    {
+      "id": "685709",
+      "nombre": "Síntomas y signos cardinales de las enfermedades (4. ed.) (2006)",
+      "autor": "Jinich, Horacio; Lifshitz Guinzberg, Alberto",
+      "ISBN": "9707292334",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9707292334-L.jpg"
+    },
+    {
+      "id": "715486",
+      "nombre": "La llave maestra : el mayor enigma de todos los tiempos (2005)",
+      "autor": "Sánchez Vidal, Agustín",
+      "ISBN": "9788496463042",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788496463042-L.jpg"
+    },
+    {
+      "id": "765561",
+      "nombre": "33 Claves para descifrar el símbolo perdido : una guía de lectura para comprender la novela de Dan Brown (2010)",
+      "autor": "Beyer, Thomas R.; Borovsky, Luisa",
+      "ISBN": "9789584524119",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789584524119-L.jpg"
+    },
+    {
+      "id": "824979",
+      "nombre": "Una mochila para el universo : 21 rutas para vivir con nuestras emociones (2012)",
+      "autor": "Punset Bannel, Elsa",
+      "ISBN": "9788423324613",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9788423324613-L.jpg"
+    },
+    {
+      "id": "600321",
+      "nombre": "El universo en una cáscara de nuez (2002)",
+      "autor": "Hawking, Stephen W.; Jou, David",
+      "ISBN": "8484322939",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8484322939-L.jpg"
+    },
+    {
+      "id": "843022",
+      "nombre": "Barroco : Theatrum Mundi. El mundo como obra de arte ([2012])",
+      "autor": "Toman, Rolf; Borngasser, Barbara; Bednorz, Achim; Paffen, Thomas",
+      "ISBN": "9783848000616",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9783848000616-L.jpg"
+    },
+    {
+      "id": "915554",
+      "nombre": "Homo Deus : breve historia del mañana (2016)",
+      "autor": "Harari, Yuval Noah; Ros i Aragonès, Joandomènec",
+      "ISBN": "9789588931623",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "3",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588931623-L.jpg"
+    },
+    {
+      "id": "952177",
+      "nombre": "De animales a dioses : breve historia de la humanidad (2014)",
+      "autor": "Harari, Yuval Noah; Ros i Aragonès, Joandomènec",
+      "ISBN": "9789588806839",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "4",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789588806839-L.jpg"
+    },
+    {
+      "id": "892731",
+      "nombre": "Orden y tiempo en la filosofía de Foucault : (2014)",
+      "autor": "Sardinha, Diogo; Pulido Correa, Martha Lucía",
+      "ISBN": "9789587146271",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789587146271-L.jpg"
+    },
+    {
+      "id": "822102",
+      "nombre": "Los caminos de la historia : introducción a su epistemología (2011)",
+      "autor": "Barreiro, Héctor",
+      "ISBN": "9789508923745",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "1",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789508923745-L.jpg"
+    },
+    {
+      "id": "684156",
+      "nombre": "Métodos fundamentales de economía matemática (4 ed.) (2006)",
+      "autor": "Chiang, Alpha C.; Wainwright, Kevin; Sánchez Fragoso, Francisco; Arrioja Juárez, Raúl; González Nucamendi, Andrés; Cázares, Filadelfo León",
+      "ISBN": "9789701056141",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "7",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/9789701056141-L.jpg"
+    },
+    {
+      "id": "705174",
+      "nombre": "Análisis del deporte (1988)",
+      "autor": "Jeu, Bernard; Latorre, Magda",
+      "ISBN": "8472900568",
+      "detalle": "Libros/Impreso - Libros",
+      "ejemplares": "2",
+      "imagenUrl": "http://covers.openlibrary.org/b/isbn/8472900568-L.jpg"
+    },
+    {
+      "id": "975814",
+      "nombre": "Aportes a la enseñanza de la física moderna desde el análisis histórico del texto original de Stephen Hawking, Breve historia del tiempo : del big bang a los agujeros negros [recurso electrónico]",
+      "autor": "Torres Perea, Cristian Emilio; Hoyos, Nelson Enrique",
+      "ISBN": null,
+      "detalle": "Tesis o Trabajo de grado/CD-ROM - Tesis o Trabajo de grado",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "505706",
+      "nombre": "Israel 1500 years plus 40 / Ernesto Che Guevara / Los Incas / Una breve historia del tiempo [videograbación]",
+      "autor": " Videos/Videocasete - Videos",
+      "ISBN": null,
+      "detalle": "Videos/Videocasete - Videos",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "928661",
+      "nombre": "Israel 1500 years plus 40 / Ernesto Che Guevara / Los Incas / Una breve historia del tiempo [videograbación]",
+      "autor": " Videos/DVD - Videos",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "0",
+      "imagenUrl": null
+    },
+    {
+      "id": "928659",
+      "nombre": "Israel 1500 years plus 40 / Ernesto Che Guevara / Los Incas / Una breve historia del tiempo (v1) [videograbación]",
+      "autor": " Videos/DVD - Videos",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "1",
+      "imagenUrl": null
+    },
+    {
+      "id": "928660",
+      "nombre": "Israel 1500 years plus 40 / Ernesto Che Guevara / Los Incas / Una breve historia del tiempo (v2) [videograbación]",
+      "autor": " Videos/DVD - Videos",
+      "ISBN": null,
+      "detalle": "Videos/DVD - Videos",
+      "ejemplares": "1",
+      "imagenUrl": null
+    }
+  ]
+}
