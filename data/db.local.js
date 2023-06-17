@@ -13,15 +13,16 @@ class DbLocal {
   constructor() {
     this.#datos = leerArchivoJSON(this.#rutaCategorias);
   }
-  datos() {
+  init() {
     for (const facultades of this.#datos.categorias) {
       const ruta = path.join(this.#rutaDBCategorias, `${facultades.id}.json`);
       if (!existeArchivo(ruta)) {
+        console.log("Creando DB");
         this.#buscarEjemplares();
         return;
       }
     }
-    console.log("Libros encontrados en la DB");
+    console.log("DB Inicializada");
     return;
   }
 
@@ -43,7 +44,7 @@ class DbLocal {
           libros: librosRecomendados,
         })
       ) {
-        console.log("Libros consultados facultad: ", facultades.facultad);
+        console.log("Libros creados de la facultad: ", facultades.facultad, " creados con exito");
       }
     }
   }
