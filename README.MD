@@ -175,3 +175,5 @@ Retorna informacion detallada de un ejemplar por medio del ID obtenido en result
     ]
 }
 ```
+
+¡A explorar y disfrutar de nuestra API OPAC Univalle! Si tienes alguna pregunta, no dudes en contactarnos. Estamos aquí para hacer de tu experiencia bibliotecaria algo grandioso. 
