@@ -4,10 +4,14 @@ const { actualizarTodoController, actualizarLibroController } = require('../cont
 const { buscarLibroController } = require('../controllers/buscar.libro.controller');
 const { detallesISBNController } = require('../controllers/detalles.isbn.controller');
 const { detallesOIDController } = require('../controllers/detalles.oid.controller');
+const facultadesUnivalle = require('../controllers/facultades.univalle.controller');
+const librosRecomendadosFacultad = require('../controllers/libros.recomendados.facultad.controller');
 
 const router = Router();
 
 // router.get('/',);
+router.get('/facultades', facultadesUnivalle);
+router.get('/facultades/:idFacultad', librosRecomendadosFacultad);
 router.get('/login', informacionPrincipalController);
 router.get('/renovar', actualizarTodoController);
 router.get('/renovar/:indexLibro', actualizarLibroController);
