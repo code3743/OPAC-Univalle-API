@@ -1,11 +1,13 @@
 const axios = require('axios');
 const logger = require('../utils/logger');
+const constantes = require('../config/constantes');
 
 /**
  * @param {string} nombrePublicacion 
  */
 const buscarDBUnivalle = async (nombrePublicacion) => {
-    const url = `https://apis.ebsco.com/public/rma-pfapi/v1/pf/pfaccount/s6493750.main.pfui/publications`;
+
+    const url = constantes.URL_BUSCADOR;
     const params = {
       search: nombrePublicacion,
       offset: 1,
