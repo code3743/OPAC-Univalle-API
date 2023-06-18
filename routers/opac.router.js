@@ -7,11 +7,14 @@ const { detallesOIDController } = require('../controllers/detalles.oid.controlle
 const facultadesUnivalle = require('../controllers/facultades.univalle.controller');
 const librosRecomendadosFacultad = require('../controllers/libros.recomendados.facultad.controller');
 const buscadorDBUnivalleController = require('../controllers/buscador.db.univalle.controller');
+const noticiasController = require('../controllers/noticias.controller');
+const listadoDBUnivalleController = require('../controllers/listado.db.univalle.controller');
 
 const router = Router();
 
-// router.get('/',);
-router.get('/buscar/db', buscadorDBUnivalleController);
+router.get('/', noticiasController);
+router.get('/db', listadoDBUnivalleController);
+router.get('/db/buscar', buscadorDBUnivalleController);
 router.get('/facultades', facultadesUnivalle);
 router.get('/facultades/:idFacultad', librosRecomendadosFacultad);
 router.get('/login', informacionPrincipalController);
