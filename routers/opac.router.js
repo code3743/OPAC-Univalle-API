@@ -6,10 +6,12 @@ const { detallesISBNController } = require('../controllers/detalles.isbn.control
 const { detallesOIDController } = require('../controllers/detalles.oid.controller');
 const facultadesUnivalle = require('../controllers/facultades.univalle.controller');
 const librosRecomendadosFacultad = require('../controllers/libros.recomendados.facultad.controller');
+const buscadorDBUnivalleController = require('../controllers/buscador.db.univalle.controller');
 
 const router = Router();
 
 // router.get('/',);
+router.get('/buscar/db', buscadorDBUnivalleController);
 router.get('/facultades', facultadesUnivalle);
 router.get('/facultades/:idFacultad', librosRecomendadosFacultad);
 router.get('/login', informacionPrincipalController);
