@@ -16,8 +16,8 @@ const extraerNoticias  = async ()=>{
         const totalNoticias = $('.smart-slider-border2 .smart-slider-layer a img').length
 
         for (let i = 0; i < totalNoticias; i++) {
-            const href = $('.smart-slider-border2 .smart-slider-layer > div > a').eq(0).attr('href');
-            const src = $('.smart-slider-border2 .smart-slider-layer a img').eq(0).attr('src');
+            const href = $('.smart-slider-border2 .smart-slider-layer > div > a').eq(i).attr('href');
+            const src = $('.smart-slider-border2 .smart-slider-layer a img').eq(i).attr('src');
             noticias.push({
                 img : src,
                 url : href
