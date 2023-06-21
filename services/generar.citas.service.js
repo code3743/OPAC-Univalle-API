@@ -20,10 +20,11 @@ const generarCitaPorISBN = async (ISBN)=>{
             const apellido = nombreCompleto.pop();
             const iniciales = nombreCompleto.map(nombre => `${nombre.charAt(0)}.`);
             const autorFormatoAPA = `${apellido}, ${iniciales.join('')}`;
-            return index === infoLibro.authors.length - 1 ? `& ${autorFormatoAPA}` : autorFormatoAPA;
+            
+            return index === infoLibro.authors.length - 1 && infoLibro.authors.length > 1 ? `& ${autorFormatoAPA}` : autorFormatoAPA;
           }).join(', ');
         const anioPublicacion = infoLibro.publishedDate.substring(0, 4);
-        const tituloLibro = infoLibro.title;
+        const tituloLibro = infoLibro.subtitle ? infoLibro.title : `${infoLibro.title}.`;
         const numeroEdicion = infoLibro.edition ? `(${infoLibro.edition} ed.).` : '';
         const subtitulo = infoLibro.subtitle ? `: ${infoLibro.subtitle.charAt(0).toUpperCase() + infoLibro.subtitle.slice(1)}.` : ''; 
         const editorial = infoLibro.publisher;
