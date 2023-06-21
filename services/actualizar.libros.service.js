@@ -41,12 +41,12 @@ const actualizarTodo = async (page) => {
         await page.evaluate(() => {
             document.querySelector('img[title="Renovar todos los artículos"]').click();
         });
-        await page.waitForTimeout(2000);
+        await page.waitForTimeout(2500);
         const getFechasLibrosActualizados = await page.evaluate(() => {
             const libros = document.querySelector('.details_tab_copy').querySelectorAll('table>tbody>tr');
             const estados = [];
-            for (let i = 0; i < libros.length - 1; i++) {
-                estados.push(libros[i + 1].querySelectorAll('td')[5].innerText);
+            for (let i = 1; i < libros.length; i++) {
+                estados.push(libros[i].querySelectorAll('td')[5].innerText);
             }
             return estados;
         });
