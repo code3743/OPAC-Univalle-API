@@ -180,4 +180,23 @@ Retorna informacion detallada de un ejemplar por medio del ID obtenido en result
 }
 ```
 
+7. ` {dominio}/api/cita?isbn=ISBN`
+Retorna la cita del ejemplar en formato APA 7 Ed.
+
+**parametros:**
+- ISBN: identificador unico del ejemplar (10 o 13)
+
+**Respuesta:**    
+```sh
+{
+  autores: string,
+  anioPublicacion: string,
+  tituloLibro: string,
+  subtitulo: string,
+  numeroEdicion: string,
+  editorial: string,
+  citaAPA: string
+}
+```
+
 ¡A explorar y disfrutar de nuestra API OPAC Univalle! Si tienes alguna pregunta, no dudes en contactarnos. Estamos aquí para hacer de tu experiencia bibliotecaria algo grandioso. 
