@@ -22,9 +22,13 @@ Recuerda que este proyecto tiene fines educativos, ¡así que diviértete explor
 - renovar libros, se puede renovar un libro o todos.
 - buscar libros, permite obtener los 10 primeros resultados de coincidencia
 - ver detalles del ejemplar (Ubicación, disponibilidad, numero de ejemplares)
+- generar citas en formato APA 7
+- buscar en las bases de datos de la Universidad deL Valle
+- listar todas las bases de datos de la Universidad
  
 
-### endpoints
+### endpoints principales
+
 1. ` {dominio}/api/login?codigo=CODIGO_ESTUDIANTE`
 obtener la informacion principal del OPAC
 
